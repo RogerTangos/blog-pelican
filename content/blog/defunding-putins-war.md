@@ -3,7 +3,7 @@ Title: Defunding Putins War
 Date: 2022-03-20
 Description: The unfortunate fact is that your money probably provided financing for Gazprom, which is funding Putin’s bombs, which are dropping on cities and children and as you read this. That same money is also financing the climate crisis. Both are causing grain prices to spike, resulting in a food crisis that’s causing millions to go hungry, and contributing to a refugee crisis as the dominoes continue to tumble.
 Tags: activism, environment, financialactivism
-Cover: /img/defunding-putins-war/Grain_fire.jpg
+Cover: /blog/img/defunding-putins-war/Grain_fire.jpg
 Slug: defunding-putin-oil-and-gas
 ---
 Are you feeling upset but helpless as Ukraine’s war rumbles on? It might not be realistic to suddenly stop buying gas and you’re probably not in a position to pick up a gun and join the fight. And as you’ve found your way here, you were probably already concerned about climate change. How is one person supposed to confront these monumental issues?
