@@ -3,7 +3,7 @@ Title: 2. Crashing the Roadshow: A Tactic to Take Down Fossil Fuels
 Date: 2020-08-25
 Description: Infiltrating and disrupting fossil fuel roadshows. One of 3 tactics to take down fossil fuels.
 Tags: activism, finance, financialactivism
-# Cover: {static}/blog/img/ff-campaign-2-crashing-the-roadshow/crash-the-roadshow.jpg
+Cover: /blog/img/ff-campaign-2-crashing-the-roadshow/crash-the-roadshow.jpg
 Slug: crash-the-roadshow-against-fossil-fuels
 ---
 

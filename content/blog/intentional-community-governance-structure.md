@@ -3,7 +3,7 @@ Title: Structure and Governance for Intentional Communities
 Date: 2023-08-09
 Description: Are you figuring out how to govern a living community? This commentary and governance document may help.
 Tags: environment, dutch, community
-# Cover: {static}/blog/img/intentional-community-governance-structure/tennis-court-oaths.jpg
+Cover: /blog/img/intentional-community-governance-structure/tennis-court-oaths.jpg
 Slug: intentional-community-governance-structure
 ---
 
