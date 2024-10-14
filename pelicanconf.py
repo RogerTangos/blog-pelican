@@ -3,6 +3,7 @@ SITENAME = 'Albert R Carter'
 SITEURL = ""
 
 PATH = "content"
+STATIC_PATHS=["blog/img/"]
 
 TIMEZONE = 'Europe/Rome'
 

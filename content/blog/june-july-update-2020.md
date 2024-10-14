@@ -3,7 +3,7 @@ Title: June-July Update
 Date: 2020-07-31
 Description: An update on my strategy and activities in June and July, 2020
 Tags: activism, Dutch, accountability
-Cover: /img/loudspeaker.png
+Cover: /blog/img/june-july-update-2020/loudspeaker.png
 Slug: june-juy-update-2020
 ---
 
