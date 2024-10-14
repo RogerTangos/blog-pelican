@@ -1,13 +1,27 @@
 {% extends "base.html" %}
 {% block content %}
     {% block content_title %}
-        <h2>All articles</h2>
+    <div id="introinfo">
+        <div id="image-container">
+            <img src="{{ SITEURL }}/images/author.jpg">
+        </div>
+        <div id="text-container">
+            <h1>Hi, I'm <b>Albert Carter</b></h1>
+            <p>Programmer and financial environmental activist.</p>
+            <ul id="link-icons">
+                <li><a href="https://www.facebook.com/al.carter">facebook</a></li>
+                <li><a href="https://linkedin.com/in/albertrcarter">linkedin</a></li>
+                <li><a href="https://github.com/RogerTangos/">github</a></li>
+            </ul>
+        </div>
+    </div>
     {% endblock %}
 
 
     {% for article in articles_page.object_list %}
         <article>
             <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+            <img src="{{ article.cover }}">
             <section>{{ article.summary }}</section>
             <footer>
                 <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
