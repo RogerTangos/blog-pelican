@@ -23,6 +23,9 @@
 /* "Latest Stories" header */
 #articles #header-text {
   color: var(--secondary);
+  letter-spacing: .17em;
+  font-size: 1.2em;
+  margin-bottom: 1em;
 }
 
 /* summary */
@@ -34,6 +37,7 @@
 #articles #tags {
   margin-bottom: 1em;
 }
+
 #articles #tag {
   color: var(--accent);
   margin-right: 10px;
@@ -45,16 +49,55 @@
   height: 12em;
   object-fit: cover;
   border-radius: 4px;
-  align-content: center;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 20px;
 }
 
 /* published date */
 #articles article footer {
- justify-self: flex-end;
- color: var(--secondary);
+  justify-self: flex-end;
+  color: var(--secondary);
 }
 
-@media (max-width:600px) {}
-@media (max-width:600px) {}
-@media (max-width:600px) {}
+@media (max-width:1200px) {
+  #articles {
+    max-width: 800px;
+  }
+}
+
+@media (max-width:900px) {
+  #articles {
+    max-width: 600px;
+  }
+}
+
+@media (max-width:600px) {
+  #articles #header-text { 
+    margin-left: 2em;
+  }
+
+  #articles article {
+    flex-direction: column;
+    margin: 0 2em;
+    margin-bottom: 8em;
+  }
+
+  #articles #text-container {
+    margin: 0;
+  }
+
+  #articles #image-container {
+    margin-bottom: 2em;
+    overflow:hidden;
+    width: 100%;
+    height: 30em;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #articles article img {
+    overflow:hidden;
+    align-content: center;
+    height: 100%;
+    width: 100%;
+  }
+}
