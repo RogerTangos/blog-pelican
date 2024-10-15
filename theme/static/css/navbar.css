@@ -1,0 +1,44 @@
+#sticky {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 9999;
+}
+
+#navbar {
+  height: 8em;
+  background: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#navbar img {
+  /* height: 100%; */
+  padding: 10px;
+  margin-left: 5em;
+}
+
+#navbar nav {
+  margin-right: 5em;
+
+}
+
+#navbar nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+
+#navbar a {
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+#navbar nav ul li {
+  margin: 0 2em;
+  font-size: 1.25em;
+}

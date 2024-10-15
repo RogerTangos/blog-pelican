@@ -6,11 +6,12 @@
 @import url("fonts.css");
 @import url("home/introinfo.css");
 @import url("home/articles.css");
+@import url("navbar.css");
 
 /***** Global *****/
 /* Body */
 body {
-    background: #fafafa;
+    background: white;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,6 +19,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: left;
+    margin-top: 10em;
 }
 
 /* Headings */
