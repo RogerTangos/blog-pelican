@@ -1,64 +1,60 @@
 #introinfo {
   display: flex;
-  justify-content: center;
-  align-content: center;
-  padding: 2em 10%;
+  justify-content: space-around;
+  margin: 2em 20%;
+  width: 100%;
+  max-width: 62.5em;
 }
 
 #introinfo>div {
   align-content: center;
   flex-grow: 0;
   flex-shrink: 0;
-  margin: 0 auto;
+  margin: 0;
   padding: 2em 0;
 }
 
 /* text */
-/* ... */
+/* inherited from global */
 
 /* links icons */
-#introinfo #link-icons {
-  display: flex;
-  margin: 1em 0;
-  justify-content: left;
-}
-
-#introinfo #link-icons li {
-  margin: 0 1em;
-}
+#introinfo #link-icons { display: flex; }
+#introinfo #link-icons li{ margin: 0.5em; }
+#introinfo #link-icons li:first-child { margin-left: 0; }
 
 /* image */
 #introinfo #image-container {
   border-radius: 50%;
   border: 1px solid #dddddd;
-  width: 13em;
-  height: 13em;
-  margin: 0;
   padding: 1.25em;
   box-sizing: border-box;
+  width: 18em;
+  height: 18em;
+  margin: 2em;
 }
 
 #introinfo img {
   height: 100%;
   width: 100%;
+  margin: 0 auto;
   border-radius: 50%;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 20px;
 }
 
 /*  breakpoints */
-@media (min-width:1000px) {
+@media (max-width:1000px) {
   #introinfo {
-    padding: 2em 20%;
+    margin: 2em 20%;
+    max-width: 40.5em;
   }
 
   #introinfo #image-container {
-    width: 18em;
-    height: 18em;
-    padding: 2em;
+    width: 13em;
+    height: 13em;
+    margin: 1em;
   }
 }
 
-/* change flex direction for smaller screens */
 @media (max-width:600px) {
   #introinfo #image-container {
     margin: 0 auto;

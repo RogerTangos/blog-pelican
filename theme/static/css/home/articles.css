@@ -1,0 +1,60 @@
+#articles {
+  margin: 0 auto;
+  max-width: 1050px;
+}
+
+#articles a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#articles article {
+  display: flex;
+  margin-bottom: 7em;
+}
+
+
+#articles #text-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3em;
+}
+
+/* "Latest Stories" header */
+#articles #header-text {
+  color: var(--secondary);
+}
+
+/* summary */
+#articles #text-container #description {
+  margin-bottom: 2em;
+}
+
+/* tag */
+#articles #tags {
+  margin-bottom: 1em;
+}
+#articles #tag {
+  color: var(--accent);
+  margin-right: 10px;
+}
+
+/* cover image */
+#articles article img {
+  width: 12em;
+  height: 12em;
+  object-fit: cover;
+  border-radius: 4px;
+  align-content: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 20px;
+}
+
+/* published date */
+#articles article footer {
+ justify-self: flex-end;
+ color: var(--secondary);
+}
+
+@media (max-width:600px) {}
+@media (max-width:600px) {}
+@media (max-width:600px) {}

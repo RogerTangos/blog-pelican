@@ -1,14 +1,16 @@
 /* Imports */
+@import url("colors.css");
 @import url("reset.css");
 /* @import url("pygment.css"); */
 /* @import url("typogrify.css"); */
 @import url("fonts.css");
-@import url("introinfo.css");
+@import url("home/introinfo.css");
+@import url("home/articles.css");
 
 /***** Global *****/
 /* Body */
 body {
-    background: #F5F4EF;
+    background: #fafafa;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,4 +38,11 @@ h1, h2, h3, h4, h5, h6 {
 h3, h4, h5, h6 { margin-top: .8em; }
 
 hr { border: 2px solid #EEEEEE; }
+
+#center {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
 

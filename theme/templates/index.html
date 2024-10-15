@@ -1,38 +1,56 @@
 {% extends "base.html" %}
 {% block content %}
     {% block content_title %}
-    <div id="introinfo">
-        <div id="image-container">
-            <img src="{{ SITEURL }}/images/author.jpg">
-        </div>
-        <div id="text-container">
-            <h1>Hi, I'm <b>Albert Carter</b></h1>
-            <p>Programmer and financial environmental activist.</p>
-            <ul id="link-icons">
-                <li><a href="https://www.facebook.com/al.carter">facebook</a></li>
-                <li><a href="https://linkedin.com/in/albertrcarter">linkedin</a></li>
-                <li><a href="https://github.com/RogerTangos/">github</a></li>
-            </ul>
+    <div id="center">
+        <div id="introinfo">
+            <div id="image-container">
+                <img src="{{ SITEURL }}/images/author.jpg">
+            </div>
+            <div id="text-container">
+                <h1>Hi, I'm <b>Albert Carter</b></h1>
+                <p>Programmer and financial environmental activist.</p>
+                <!-- TODO get and use icons -->
+                <ul id="link-icons">
+                    <li><a href="https://www.facebook.com/al.carter">facebook</a></li>
+                    <li><a href="https://linkedin.com/in/albertrcarter">linkedin</a></li>
+                    <li><a href="https://github.com/RogerTangos/">github</a></li>
+                    <li><a href="https://www.instagram.com/alrcarter/">instagram</a></li>
+                    <li><a href="https://x.com/al_carter">x</a></li>
+                </ul>
+            </div>
         </div>
     </div>
+
     {% endblock %}
 
-
+    <div id="articles">
+        <h3 id="header-text">Latest Stories</h3>
     {% for article in articles_page.object_list %}
         <article>
-            <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-            <img src="{{ article.cover }}">
-            <section>{{ article.summary }}</section>
-            <footer>
-                <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
-                <address>By
-                    {% for author in article.authors %}
-                        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+            <div id="image-container">
+                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                    <img src="{{ article.cover }}">
+                </a>
+            </div>
+            <div id="text-container">
+                <header>
+                    <div id="tags">
+                    {% for tag in article.tags %}
+                      <a id="tag" href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a>
                     {% endfor %}
-                </address>
-            </footer>
+                    </div>
+                    <h2>
+                        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                    </h2>
+                </header>
+                <section id="description">{{ article.description }}</section>
+                <footer>
+                    <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
+                </footer>
+            </div>
         </article>
     {% endfor %}
+    </div>
 
     {% if articles_page.has_other_pages() %}
         {% include 'pagination.html' %}
