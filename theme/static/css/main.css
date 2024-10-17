@@ -51,20 +51,9 @@ hr { border: .01px solid var(--light-secondary); margin: 2em;}
 main { display: flex; justify-content: center; }
 
 /* base content  */
-#base-content { max-width: 1050px; margin-bottom: 4em; }
+#base-content { max-width: 45em; margin-bottom: 4em; }
 
-@media (max-width:1200px) {
-    #base-content {
-        max-width: 800px;
-    }
-}
-@media (max-width:900px) {
-    #base-content {
-        max-width: 600px;
-    }
-}
-
-@media (max-width:650px) {
+@media (max-width:1000px) {
     #base-content { padding: 0 2em; }
 }
 
