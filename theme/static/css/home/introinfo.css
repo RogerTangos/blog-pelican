@@ -18,8 +18,9 @@
 /* inherited from global */
 
 /* links icons */
+#introinfo #link-icons svg { width: 1.25em; fill:  var(--secondary); }
 #introinfo #link-icons { display: flex; }
-#introinfo #link-icons li{ margin: 0.5em; }
+#introinfo #link-icons li{ margin: 0.5em 0.8em; }
 #introinfo #link-icons li:first-child { margin-left: 0; }
 #introinfo ul {margin: 0}
 #introinfo li { list-style: none; }
