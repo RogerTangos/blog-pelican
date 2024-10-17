@@ -46,7 +46,7 @@
 }
 
 /*  breakpoints */
-@media (max-width:1000px) {
+@media screen and (max-width:1000px) {
   #introinfo {
     margin: 6em 0;
     max-width: 40.5em;
@@ -59,7 +59,7 @@
   }
 }
 
-@media (max-width:700px) {
+@media screen and (max-width:700px) {
   #introinfo #image-container {
     margin: 0 auto;
   }

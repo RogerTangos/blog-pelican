@@ -58,7 +58,7 @@
 }
 
 /* breakpoints  */
-@media (max-width:600px) {
+@media screen and (max-width:600px) {
   #articles #header-text { 
     margin-left: 2em;
   }
