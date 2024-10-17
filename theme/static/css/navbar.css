@@ -14,7 +14,6 @@
 }
 
 #navbar img {
-  /* height: 100%; */
   padding: 10px;
   margin-left: 5em;
 }
@@ -25,6 +24,7 @@
 }
 
 #navbar nav ul {
+  list-style: none;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -32,13 +32,17 @@
   justify-content: center;
 }
 
-#navbar a {
+#navbar nav a {
   text-decoration: none;
-  color: inherit;
+  color: var(--secondary);
   height: 100%;
+}
+#navbar nav a:hover {
+  color: #000;
 }
 
 #navbar nav ul li {
+  list-style: none;
   margin: 0 2em;
   font-size: 1.25em;
 }

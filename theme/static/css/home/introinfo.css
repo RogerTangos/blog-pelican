@@ -21,11 +21,13 @@
 #introinfo #link-icons { display: flex; }
 #introinfo #link-icons li{ margin: 0.5em; }
 #introinfo #link-icons li:first-child { margin-left: 0; }
+#introinfo ul {margin: 0}
+#introinfo li { list-style: none; }
 
 /* image */
 #introinfo #image-container {
   border-radius: 50%;
-  border: 1px solid #dddddd;
+  border: 1px solid var(--light-secondary);
   padding: 1.25em;
   box-sizing: border-box;
   width: 18em;
