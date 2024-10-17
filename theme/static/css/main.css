@@ -12,7 +12,6 @@
 /* Body */
 body {
     background: white;
-    /* color: #000305; */
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.429;
@@ -44,9 +43,11 @@ hr { border: .01px solid var(--light-secondary); }
 #center {
     display: flex;
     width: 100%;
-    height: 100%;
     justify-content: center;
 }
+/* main */
+main { display: flex; justify-content: center; }
+#default-content{ max-width: 1050px; }
 
 
 

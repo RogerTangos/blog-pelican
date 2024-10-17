@@ -1,7 +1,7 @@
 #introinfo {
   display: flex;
   justify-content: space-around;
-  margin: 10em 20%;
+  margin: 5em 10%;
   width: 100%;
   max-width: 62.5em;
 }
@@ -46,14 +46,14 @@
 /*  breakpoints */
 @media (max-width:1000px) {
   #introinfo {
-    margin: 6em 20%;
+    margin: 6em 0;
     max-width: 40.5em;
   }
 
   #introinfo #image-container {
     width: 13em;
     height: 13em;
-    margin: 1em;
+    margin: 1em 2em;
   }
 }
 

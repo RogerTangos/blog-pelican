@@ -42,7 +42,6 @@
 
   <body>
     <header>
-      <!-- <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup> -->
        <div id="sticky">
         <div id="navbar">
             <a a href="{{ SITEURL }}/">
@@ -68,8 +67,10 @@
     </div>
     </header>
     <main>
-      {% block content %}
+      <div id="default-content">
+        {% block content %}
       {% endblock %}
+    </div>
     </main>
     <footer id="basefoot">
         Copyright © <script>document.write(/\d{4}/.exec(Date())[0])</script> Albert Carter
