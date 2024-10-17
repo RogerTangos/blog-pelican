@@ -1,5 +1,7 @@
 :root {
   --accent: #d10068;
+  --main: #000;
   --secondary: rgb(41, 41, 41);
   --light-secondary: #ddd;
+  --bg: #fff;
 }

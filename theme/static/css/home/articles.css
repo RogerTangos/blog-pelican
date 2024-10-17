@@ -57,18 +57,7 @@
   color: var(--secondary);
 }
 
-@media (max-width:1200px) {
-  #articles {
-    max-width: 800px;
-  }
-}
-
-@media (max-width:900px) {
-  #articles {
-    max-width: 600px;
-  }
-}
-
+/* breakpoints  */
 @media (max-width:600px) {
   #articles #header-text { 
     margin-left: 2em;

@@ -7,7 +7,7 @@
 
 #navbar {
   height: 8em;
-  background: white;
+  background: var(--bg);
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -38,7 +38,7 @@
   height: 100%;
 }
 #navbar nav a:hover {
-  color: #000;
+  color: var(--main);
 }
 
 #navbar nav ul li {
