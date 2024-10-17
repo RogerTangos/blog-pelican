@@ -1,7 +1,7 @@
 #introinfo {
   display: flex;
   justify-content: space-around;
-  margin: 5em 10%;
+  margin: 5em 0;
   width: 100%;
   max-width: 62.5em;
 }
@@ -34,6 +34,7 @@
   width: 18em;
   height: 18em;
   margin: 2em;
+  margin-left: 0;
 }
 
 #introinfo img {
@@ -58,7 +59,7 @@
   }
 }
 
-@media (max-width:600px) {
+@media (max-width:700px) {
   #introinfo #image-container {
     margin: 0 auto;
   }
