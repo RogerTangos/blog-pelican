@@ -41,12 +41,26 @@
   </head>
 
   <body>
+    <!-- dummy script to stop Flash of unstyled content (FOUC) -->
+    <script>0</script>
     <header>
-       <div id="sticky">
         <div id="navbar">
-            <a a href="{{ SITEURL }}/">
+          <div id="navbar-img-wrapper">
+            <a href="{{ SITEURL }}/">
               <img alt="A drawing of Albert R Carter." src="{{ SITEURL }}/images/albert.png">
             </a>
+              <!-- The hamburger menu -->
+            <label for='menu' tabindex="0">
+              <?xml version="1.0" encoding="utf-8"?>
+              <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="24" height="24" fill="white"/>
+              <path d="M6 12H18" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 15.5H18" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 8.5H18" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </label>
+          </div>
+            <input id='menu' type='checkbox' />
           <nav>
             <ul>
             {% for title, link in MENUITEMS %}
@@ -65,6 +79,7 @@
           </ul></nav>
         </div>
     </div>
+    <hr id="navbar-line"/>
     </header>
     <main>
       <div id="base-content">

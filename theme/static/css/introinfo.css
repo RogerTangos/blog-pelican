@@ -1,7 +1,7 @@
 #introinfo {
   display: flex;
   justify-content: space-around;
-  margin: 5em 0;
+  margin-bottom: 5em;
   width: 100%;
   max-width: 62.5em;
 }
@@ -48,7 +48,7 @@
 /*  breakpoints */
 @media screen and (max-width:1000px) {
   #introinfo {
-    margin: 6em 0;
+    margin-bottom: 6em;
     max-width: 40.5em;
   }
 

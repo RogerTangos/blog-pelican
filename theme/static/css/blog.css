@@ -59,14 +59,13 @@
 
 /* breakpoints  */
 @media screen and (max-width:600px) {
-  #articles #header-text { 
+  #articles #header-text {
     margin-left: 2em;
   }
 
   #articles article {
     flex-direction: column;
-    margin: 0 2em;
-    margin-bottom: 8em;
+    margin-bottom: 6em;
   }
 
   #articles #text-container {
@@ -75,7 +74,7 @@
 
   #articles #image-container {
     margin-bottom: 2em;
-    overflow:hidden;
+    overflow: hidden;
     width: 100%;
     height: 30em;
     align-items: center;
@@ -83,7 +82,7 @@
   }
 
   #articles article img {
-    overflow:hidden;
+    overflow: hidden;
     align-content: center;
     height: 100%;
     width: 100%;
