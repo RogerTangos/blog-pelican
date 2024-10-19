@@ -41,7 +41,7 @@ h3, h4, h5, h6 { margin-top: .8em; }
 hr { border: .01px solid var(--light-secondary); margin: 2em;}
 
 
-#center {
+#vcenter {
     display: flex;
     width: 100%;
     justify-content: center;
@@ -207,6 +207,10 @@ article header a {
 #article p:has(img){ text-align: center; }
 #article img {
     max-width: 100%;
+}
+
+#article iframe {
+    overflow: visible;
 }
 #article-cover-wrapper {
     text-align: center;
