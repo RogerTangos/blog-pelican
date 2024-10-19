@@ -82,7 +82,6 @@ nav label {
   }
 
   #navbar label svg {
-    /* padding: 1em; */
     width: 2.5em;
   }
 
@@ -96,11 +95,17 @@ nav label {
 
   #menu:checked~nav {
     display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
   }
 
   #navbar nav ul {
     display: flex;
     flex-direction: column;
+    padding: 1em;
+    padding-bottom: 0;
+    margin: 0;
   }
 
   #navbar nav ul li {
@@ -109,11 +114,11 @@ nav label {
     border-bottom-style: none;
     border-left-style: none;
     padding: 1em 2em;
+    width: 100%;
   }
 
   #navbar nav ul li,
   #navbar nav ul li a {
-    width: 100%;
     display: block;
   }
 }
