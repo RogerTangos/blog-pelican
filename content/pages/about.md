@@ -5,7 +5,7 @@ Slug: about
 Authors: Albert Carter
 Status: published
 
-![A drawing of Albert R Carter.]({static}/pages/img/albert.png)
+![A drawing of Albert R Carter.]({static}/images/albert.png)
 
 Albert Carter is an environmental financial campaigner, engineering manager, and a director of [Bank.Green](https://bank.green)
 

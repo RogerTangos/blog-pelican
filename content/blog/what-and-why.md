@@ -3,7 +3,7 @@ Title: Why a blog?
 Date: 2019-06-04
 Description: I'm giving myself between 6 and 9 months of unpaid time to change careers.
 Tags: activism, finance, environment
-# Cover: {static}/blog/img/what-and-why/sea.jpg
+Cover: /blog/img/what-and-why/sea.jpg
 Slug: an-activist-adventure
 ---
 

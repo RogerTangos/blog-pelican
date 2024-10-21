@@ -3,7 +3,7 @@ Title: October Update
 Date: 2020-10-26
 Description: As chill winds descend from the north and leaves turn to yellow and red, fall, and crunch underfoot, I wish we could huddle together, sharing hot drinks and thoughts, and feeling comfort in one another’s presence. Instead, we congregate over Zoom calls and emails, seeking connectedness in the harsh cold glares of our computer screens. So I'm emailing you again; to tell you about my last few months; to try to keep the interpersonal connections that I have; to try and grow the connections that I don't have; and to connect with you in whatever way is available to me."
 Tags: accountability
-# Cover: {static}/blog/img/2020-october-update/pie-chart.png
+Cover: /blog/img/2020-october-update/pie-chart.png
 Slug: 2020-october-update
 ---
 As chill winds descend from the north and leaves turn to yellow and red, fall, and crunch underfoot, I wish we could huddle together, sharing hot drinks and thoughts, and feeling comfort in one another’s presence. Instead, we congregate over Zoom calls and emails, seeking connectedness in the harsh cold glares of our computer screens.

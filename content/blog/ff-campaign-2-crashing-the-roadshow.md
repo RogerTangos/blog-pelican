@@ -3,7 +3,7 @@ Title: 2. Crashing the Roadshow: A Tactic to Take Down Fossil Fuels
 Date: 2020-08-25
 Description: Infiltrating and disrupting fossil fuel roadshows. One of 3 tactics to take down fossil fuels.
 Tags: activism, finance, financialactivism
-# Cover: {static}/blog/img/ff-campaign-2-crashing-the-roadshow/crash-the-roadshow.jpg
+Cover: /blog/img/ff-campaign-2-crashing-the-roadshow/crash-the-roadshow.jpg
 Slug: crash-the-roadshow-against-fossil-fuels
 ---
 
@@ -35,7 +35,7 @@ Disrupting the roadshow is another way to hurt fossil fuel companies' balance sh
 
 When this happens, management will receive the strongest possible market signal that it _must_ consider environmental impacts. (What signal is stronger than your investors/potential owners demanding that you do something?) **This can lead either to less environmentally destructive or to scrapped fossil fuel projects, allowing funding to be diverted to non-fossil fuel investments.**
 
-![overt activists present environmental concerns relevant to the bottom line to potential investors. Potential investors also includes undercover activists. Potential investors present environmentally related to management. Management gives back possibly smart replies. Management also changes current and future business plans.](roadshow-pressure-diagram.png)
+![overt activists present environmental concerns relevant to the bottom line to potential investors. Potential investors also includes undercover activists. Potential investors present environmentally related to management. Management gives back possibly smart replies. Management also changes current and future business plans.]({static}/blog/img/ff-campaign-2-crashing-the-roadshow/roadshow-pressure-diagram.png)
 
 ### Logistics
 

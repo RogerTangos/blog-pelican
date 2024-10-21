@@ -3,7 +3,7 @@ Title: 3. Amplifying Corporate Dissent: A Tactic to Take Down Fossil Fuels
 Date: 2020-08-25
 Description: Trolling to disrupt the fossil fuel supply chain. One of 3 tactics to take down fossil fuels.
 Tags: activism, programming, financialactivism
-# Cover: {static}/blog/img/ff-campaign-3-amplifying-corporate-dissent/troll.jpg
+Cover: /blog/img/ff-campaign-3-amplifying-corporate-dissent/troll.jpg
 Slug: amplifying-corporate-dissent-against-fossil-fuels
 ---
 
