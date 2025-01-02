@@ -5,8 +5,8 @@ Here, you can find the projects I've worked on, as well as highlights of my key 
 
 My resume is also downloadable in the following formats:
 
-- [Download as PDF](../images/AlbertCarterResume.pdf){:target="_blank"}
-- [Download as Plain Text](../images/AlbertCarterResume.txt){:target="_blank"}
+- <i class="fas fa-file-pdf"></i> [Download as PDF](../images/AlbertCarterResume.pdf){:target="_blank"}
+- <i class="fas fa-file-alt"></i> [Download as Plain Text](../images/AlbertCarterResume.txt){:target="_blank"}
 
 
 ---
