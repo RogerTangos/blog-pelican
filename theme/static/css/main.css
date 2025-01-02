@@ -219,3 +219,59 @@ article header a {
 #article-cover {
     max-width: 100%;
 }
+
+
+/* Style for the resume page */
+.page-resume {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.page-resume h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #333;
+}
+
+.page-resume .page-content {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.8;
+    color: #555;
+}
+
+/* Style for the skills section */
+.page-resume h2, .page-resume h3 {
+    color: #0066cc;
+    border-bottom: 2px solid #0066cc;
+    padding-bottom: 5px;
+}
+
+.page-resume ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+.page-resume ul li {
+    margin-bottom: 10px;
+}
+
+/* Style for download links */
+.page-resume a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.page-resume a:hover {
+    text-decoration: underline;
+}
+
+.page-resume .skills-badge {
+    display: inline-block;
+    background-color: #e0f7fa;
+    color: #00695c;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
