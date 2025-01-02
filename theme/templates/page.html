@@ -22,6 +22,20 @@
 
     {{ page.content }}
 
+
+    {% if page.slug == "resume" %}
+            <h2>My Projects</h2>
+            <ul>
+                {% for article in articles %}
+                    {% if "resume" in article.tags %}
+                        <li>
+                            <a href="{{ article.url }}">{{ article.title }}</a> - {{ article.summary }}
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% endif %}
+
     {% if page.modified %}
       <footer>
         <p>

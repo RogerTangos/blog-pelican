@@ -1,13 +1,13 @@
-AUTHOR = 'Albert Carter'
-SITENAME = 'Albert R Carter'
+AUTHOR = "Albert Carter"
+SITENAME = "Albert R Carter"
 SITEURL = ""
 
 PATH = "content"
-STATIC_PATHS=["blog/img/", "images"]
+STATIC_PATHS = ["blog/img/", "images"]
 
-TIMEZONE = 'Europe/Rome'
+TIMEZONE = "Europe/Rome"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 THEME = "theme"
 
@@ -18,6 +18,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Blogroll
 LINKS = (
