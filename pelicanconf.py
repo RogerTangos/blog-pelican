@@ -21,6 +21,17 @@ AUTHOR_FEED_RSS = None
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
+MENUITEMS = [
+    ('Home', '/'),
+    ('About', '/pages/about/'),
+    ('Resume', '/pages/resume/'),
+    ('Contact', '/pages/contact/')
+]
+
+DISPLAY_PAGES_ON_MENU = False
+# DISPLAY_CATEGORIES_ON_MENU = False
+
+
 # Blogroll
 LINKS = (
     ("Bank.Green", "https://bank.green.com/"),
