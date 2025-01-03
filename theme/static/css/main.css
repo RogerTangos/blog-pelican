@@ -223,55 +223,99 @@ article header a {
 
 /* Style for the resume page */
 .page-resume {
-    background-color: #f9f9f9;
-    padding: 20px;
-    border-radius: 8px;
+    background-color: #ffffff; /* White background for stark contrast */
+    color: #000000;           /* Black text for high contrast */
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace; /* Brutalist monospace font */
+    border: 5px solid #000000; /* Thick black border */
 }
 
-.page-resume h1 {
-    font-size: 2.5rem;
-    text-align: center;
-    color: #333;
+.page-resume h1, .page-resume h2, .page-resume h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #000000; /* Underline headings */
 }
 
-.page-resume .page-content {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.8;
-    color: #555;
-}
-
-/* Style for the skills section */
-.page-resume h2, .page-resume h3 {
-    color: #0066cc;
-    border-bottom: 2px solid #0066cc;
-    padding-bottom: 5px;
+.page-resume h2 {
+    font-size: 3rem; /* Make H1 significantly larger */
+    font-weight: 900; /* Extra-bold font weight */
+    text-transform: uppercase; /* Uppercase for strong emphasis */
+    color: #000000; /* Solid black */
+    margin-bottom: 20px; /* Add spacing below */
+    letter-spacing: 2px; /* Add letter spacing for a bold look */
+    text-align: center; /* Center-align the H1 heading */
 }
 
 .page-resume ul {
-    list-style-type: square;
-    margin-left: 20px;
+    list-style-type: none; /* Remove bullets */
+    padding-left: 0;
 }
 
 .page-resume ul li {
+    margin: 20px 0; /* Add vertical spacing between projects */
+    padding: 15px; /* Add inner padding for better readability */
+    border: 3px solid #000; /* Bold black border for brutalism */
+    background-color: #f9f9f9; /* Light background for contrast */
+    transition: all 0.2s ease-in-out; /* Smooth transitions for hover effects */
+}
+
+.page-resume ul li:hover {
+    background-color: #000000; /* Black background on hover */
+    color: #fff; /* White text on hover */
+    transform: scale(1.02); /* Slight zoom effect */
+}
+
+/* Styling for the project links inside the list items */
+.page-resume ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Use the current text color */
+    font-weight: bold;
+}
+
+.page-resume ul li a strong {
+    display: block; /* Display title as a block element */
+    font-size: 1.5rem; /* Slightly larger font for the project title */
+    margin-bottom: 5px;
+}
+
+
+.page-resume ul li a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+.page-resume .skills-section {
+    margin-bottom: 40px;
+}
+
+.page-resume .skills-section h3 {
     margin-bottom: 10px;
 }
 
-/* Style for download links */
-.page-resume a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-.page-resume a:hover {
-    text-decoration: underline;
-}
-
-.page-resume .skills-badge {
-    display: inline-block;
-    background-color: #e0f7fa;
-    color: #00695c;
+.page-resume .skills-section ul li {
+    display: inline-block; /* Inline badges for skills */
+    background-color: #f1f1f1;
     padding: 5px 10px;
+    border: 2px solid #000000;
     margin: 5px;
-    border-radius: 5px;
-    font-size: 0.9rem;
+    font-size: 1rem;
+}
+
+.page-resume .resume-downloads {
+    margin-top: 40px;
+}
+
+.page-resume .resume-downloads a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 2px solid #000000;
+    background-color: #f1f1f1;
+    text-transform: uppercase;
+}
+
+.page-resume .resume-downloads a:hover {
+    background-color: #000000;
+    color: #ffffff;
 }

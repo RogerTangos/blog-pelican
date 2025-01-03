@@ -29,12 +29,11 @@
 
 
     {% if page.slug == "resume" %}
-      <h2>My Projects</h2>
       <ul>
           {% for article in articles %}
               {% if "resume" in article.tags %}
                   <li>
-                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}-{{ article.summary }}</a>
+                    <a href="{{ SITEURL }}/{{ article.url }}"><strong>{{ article.title }} ({{ article.date.strftime('%Y') }})</strong> {{ article.summary|striptags}}</a>
                   </li>
               {% endif %}
           {% endfor %}
