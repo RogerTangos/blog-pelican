@@ -1,0 +1,119 @@
+#navbar {
+  background: var(--bg);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#navbar img {
+  padding: 5px;
+  margin-left: 1em;
+}
+
+#navbar nav {
+  margin-right: 5em;
+}
+
+#navbar nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+
+#navbar nav a {
+  text-decoration: none;
+  color: var(--secondary);
+  height: 100%;
+}
+
+#navbar nav a:hover {
+  color: var(--main);
+}
+
+#navbar nav ul li {
+  list-style: none;
+  margin: 0 2em;
+  font-size: 1.25em;
+}
+
+input#menu {
+  display: none;
+}
+
+#navbar nav input[type='checkbox'],
+nav label {
+  display: none;
+}
+
+
+#navbar-line {
+  margin: 0;
+  margin-bottom: 5em;
+}
+
+#navbar label svg {
+  width: 1.25em;
+  fill: var(--secondary)
+}
+
+#navbar label:hover {
+  cursor: pointer;
+}
+
+#navbar label {
+  display: none;
+}
+
+@media screen and (max-width: 700px) {
+  #navbar-img-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #navbar label {
+    padding: 1em 2em;
+    display: block;
+  }
+
+  #navbar label svg {
+    width: 2.5em;
+  }
+
+  #navbar { flex-direction: column; }
+
+  #navbar nav { display: none; }
+
+  #menu:checked~nav {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  #navbar nav ul {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    padding-bottom: 0;
+    margin: 0;
+  }
+
+  #navbar nav ul li {
+    border: 1px solid var(--light-secondary);
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    padding: 1em 2em;
+    width: 100%;
+  }
+
+  #navbar nav ul li,
+  #navbar nav ul li a {
+    display: block;
+  }
+}

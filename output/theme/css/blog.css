@@ -1,0 +1,90 @@
+#articles {
+  margin: 0 auto;
+}
+
+#articles a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#articles article {
+  display: flex;
+  margin-bottom: 7em;
+}
+
+
+#articles #text-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3em;
+}
+
+/* "Latest Stories" header */
+#articles #header-text {
+  color: var(--secondary);
+  letter-spacing: .17em;
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+/* summary */
+#articles #text-container #description {
+  margin-bottom: 2em;
+}
+
+/* tag */
+#articles #tags {
+  margin-bottom: 1em;
+}
+
+#articles #tag {
+  color: var(--accent);
+  margin-right: 10px;
+}
+
+/* cover image */
+#articles article img {
+  width: 12em;
+  height: 12em;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 20px;
+}
+
+/* published date */
+#articles article footer {
+  justify-self: flex-end;
+  color: var(--secondary);
+}
+
+/* breakpoints  */
+@media screen and (max-width:600px) {
+  #articles #header-text {
+    margin-left: 2em;
+  }
+
+  #articles article {
+    flex-direction: column;
+    margin-bottom: 6em;
+  }
+
+  #articles #text-container {
+    margin: 0;
+  }
+
+  #articles #image-container {
+    margin-bottom: 2em;
+    overflow: hidden;
+    width: 100%;
+    height: 30em;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #articles article img {
+    overflow: hidden;
+    align-content: center;
+    height: 100%;
+    width: 100%;
+  }
+}
