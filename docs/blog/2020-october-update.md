@@ -3,7 +3,7 @@ Title: October Update
 Date: 2020-10-26
 Description: As chill winds descend from the north and leaves turn to yellow and red, fall, and crunch underfoot, I wish we could huddle together, sharing hot drinks and thoughts, and feeling comfort in one another’s presence. Instead, we congregate over Zoom calls and emails, seeking connectedness in the harsh cold glares of our computer screens. So I'm emailing you again; to tell you about my last few months; to try to keep the interpersonal connections that I have; to try and grow the connections that I don't have; and to connect with you in whatever way is available to me."
 Tags: accountability
-Cover: /blog/img/2020-october-update/pie-chart.png
+Cover: blog/img/2020-october-update/pie-chart.png
 Slug: 2020-october-update
 ---
 As chill winds descend from the north and leaves turn to yellow and red, fall, and crunch underfoot, I wish we could huddle together, sharing hot drinks and thoughts, and feeling comfort in one another’s presence. Instead, we congregate over Zoom calls and emails, seeking connectedness in the harsh cold glares of our computer screens.
@@ -21,7 +21,7 @@ There’s not much to do while living in the countryside of a new country weathe
 In short, between August 1st and October 16th, I’ve started a new project for bicycle wayfinding, progressed on learning Dutch, done too little activism, and completed stacks of administrative paperwork:
 
 
-![Pie chart showing recent effort. Bike Points 38%, Dutch 29%, Activism 12%, Personal 21%]({static}/blog/img/2020-october-update/pie-chart.png)
+![Pie chart showing recent effort. Bike Points 38%, Dutch 29%, Activism 12%, Personal 21%]({static}blog/img/2020-october-update/pie-chart.png)
 
 ---
 
@@ -69,7 +69,7 @@ I do not expect the bureaucratic burden to lessen. In the upcoming period, I wil
 ---
 
 # 🙏 💬 Requests for Assistance
-I would welcome help in any of the following areas. In all of the below cases, I would love to share credit. My email address is `al [at] [this domain name]`, though you can also reach me at [my contact page]({static}/contact).
+I would welcome help in any of the following areas. In all of the below cases, I would love to share credit. My email address is `al [at] [this domain name]`, though you can also reach me at [my contact page]({static}/pages/contact).
 
 ### ✍️Editing and Writing Help
 My activism efforts will involve writing two more pieces on the Extinction Rebellion global blog, while BikePoints involves writing copy for the BikePoints website.
@@ -98,5 +98,5 @@ Much of my work is based on expert insights from within my community:
 
 --
 
-*If you would like to receive emails with similar pieces I write, or if you would prefer not to continue receiving list emails, please let me know at [{static}/contact]({static}/contact).*
+*If you would like to receive emails with similar pieces I write, or if you would prefer not to continue receiving list emails, please let me know at [{static}/pages/contact]({static}/pages/contact).*
 

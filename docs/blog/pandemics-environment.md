@@ -3,7 +3,7 @@ Title: 6 Ways That Pandemics and the Environment Are Inseparable
 Date: 2020-06-22
 Description: Explaining some of the less-visible connections between infectious disease and the climate and ecological crisis; how many pandemics begin; and how, by fighting against environmental destruction, we can also play a part in preventing the next pandemic.
 Tags: activism, covid-19, pandemics, environment
-Cover: /blog/img/pandemics-environment/earth-cream-covid-cone.png
+Cover: blog/img/pandemics-environment/earth-cream-covid-cone.png
 Slug: pandemics-environment
 ---
 
@@ -17,7 +17,7 @@ This post explains some of the less-visible connections between infectious disea
 
 # Pandemics Start with Wild Animals
 
-![sick pangolin in a small cage, coughing COVID-19]({static}/blog/img/pandemics-environment/panoglin-cough.png)
+![sick pangolin in a small cage, coughing COVID-19]({static}blog/img/pandemics-environment/panoglin-cough.png)
 
 What are some **similarities between COVID-19, SARS, MERS, Ebola, swine flu (H1N1), Lyme disease, West Nile fever, and HIV/AIDS?**
 
@@ -27,7 +27,7 @@ In the case of COVID-19, there is strong evidence that an infected bat [^Anderse
 
 # Wilderness Is a Wall that Keeps out Disease. We're Destroying It.
 
-![disease-carrying bat in a clear-cut forest, thinking about an apple and flying towards a city where the Apple logo is visible on a building]({static}/blog/img/pandemics-environment/wilderness-disease.jpg)
+![disease-carrying bat in a clear-cut forest, thinking about an apple and flying towards a city where the Apple logo is visible on a building]({static}blog/img/pandemics-environment/wilderness-disease.jpg)
 
 **In healthy natural environments, wild animals’ diseases circulate mostly in the wild and keep away from humans, with plant and animal diversity shielding humans from infection.**[^Ostfeld2012] [^Swaddle2008] This is largely because the vast majority of wild animals (including the previously-mentioned civet cats, pangolins, and most birds and bats) are afraid of humans and do their best to avoid us. Furthermore, with a multitude of wild animals available to infect, bacteria and viruses have little incentive to adapt themselves to human hosts.
 
@@ -43,7 +43,7 @@ By way of example, Europe has seen a sharp and shocking spike in West Nile virus
 
 Like animal-borne diseases, diarrheal diseases like Salmonella and campylobacteriosis too benefit from higher temperatures and extreme weather. This is because warmer temperatures allow bacteria to multiply faster, while extreme weather creates flooding, sewage spillover, and standing pools of water, which all provide prime bacterial breeding grounds. [^Yun2016] [^CDC2020Diarrheal] [^Levy2016]
 
-![friendly anthropomorphic Salmonella bacteria and mosquito sitting in a warm puddle of water, enjoying it like a hot tub]({static}/blog/img/pandemics-environment/extreme-weather-disease.png)
+![friendly anthropomorphic Salmonella bacteria and mosquito sitting in a warm puddle of water, enjoying it like a hot tub]({static}blog/img/pandemics-environment/extreme-weather-disease.png)
 
 As the earth warms, **warmer winters no longer kill disease-carrying pests. Warmer and longer summers, flooding, and extreme precipitation provide pests and bacteria more time and better conditions for reproduction. And all of these contribute to the spread of disease.**
 
@@ -53,7 +53,7 @@ Many people know that air pollution worsens asthma and heart disease[^Cohen_et_a
 
 **For COVID-19 sufferers, a small increase in a patient's exposure to air pollution was associated with an 8% higher death rate.** This was true even when controlling for patient age, health, and wealth, the availability of healthcare services, the population density where they lived, and patients who used to live in polluted areas but didn’t anymore. Air pollution was also correlated with higher rates of death in the context of SARS[^Cui2003] and pneumonia[^Neupane_et_al_2010].
 
-![person surrounded by both smoke and COVID-19 fumes]({static}/blog/img/pandemics-environment/smog-disease.png)
+![person surrounded by both smoke and COVID-19 fumes]({static}blog/img/pandemics-environment/smog-disease.png)
 
 Air pollution – even when we were only exposed to it as children – gives us a lifetime of higher susceptibility to many diseases. And people who are susceptible to disease are more likely to spread it. **Air pollution has already contributed to the deadliness of the COVID-19 pandemic - it may well worsen the next one.**
 
@@ -81,7 +81,7 @@ Extinction Rebellion calls this fight a rebellion. If you are interested in join
 
 *Written by Albert Carter and the [Extinction Rebellion Comic Science Working Group](https://xrscience.earth). Illustrations by Comic Science. This piece is also featured on the <a href="https://rebellion.global/blog/2020/07/22/pandemics-environment/" rel="canonical">Extinction Rebellion Blog</a>.*
 
-*You can contact the author at [{static}/contact]({static}/contact)*
+*You can contact the author at [{static}/pages/contact]({static}/pages/contact)*
 
 # References
 

@@ -3,7 +3,7 @@ Title: Closing The BikePoints Project
 Date: 2021-02-15
 Description: Ending my work on the BikePoints project.
 Tags: bikepoints, bicycling, programming
-Cover: /blog/img/closing-bike-points/MA_DOT_Sign.png
+Cover: blog/img/closing-bike-points/MA_DOT_Sign.png
 Slug: closing-bike-points
 ---
 
@@ -40,7 +40,7 @@ The Cambridge Bike Committee, a group of volunteer Cambridge-based bicycle advoc
 (If you're on the Cambridge bike committee or interested in cycling and way finding in Cambridge, the bike committee might be an angle to try.)
 
 You can find a copy of my proposal to Cambridge, MA [here.](./Cambridge_Proposal.pdf)
-[![Cambridge, MA Proposed BikePoint network]({static}/blog/img/closing-bike-points/cambridge-map.png)](./Cambridge_Proposal.pdf)
+[![Cambridge, MA Proposed BikePoint network]({static}blog/img/closing-bike-points/cambridge-map.png)](./Cambridge_Proposal.pdf)
 
 
 ### Pioneer Valley, MA Attempt (Amherst, Franklin County, Montague, Northampton)
@@ -61,7 +61,7 @@ To resolve this, and other regional issues, Massachusetts, has its own supplemen
 This would have some beneficial effects, especially for winter navigation. However, it is very different from the Dutch BikePoints network that my project is modeled upon. The Dutch system uses mostly small plastic signs on plastic posts hammered into the ground. Applying the Massachusetts draft regulations would have easily quadrupled BikePoints material costs and more than quadrupled labor costs.
 
 You can find a draft of a mostly MA DOT compliant BikePoints sign design [here.](./MA_DOT_Sign_Design.pdf)
-[![Cambridge, MA Proposed BikePoint network]({static}/blog/img/closing-bike-points/MA_DOT_Sign.png)](./MA_DOT_SIGN_Design.pdf)
+[![Cambridge, MA Proposed BikePoint network]({static}blog/img/closing-bike-points/MA_DOT_Sign.png)](./MA_DOT_SIGN_Design.pdf)
 
 
 

@@ -3,7 +3,7 @@ Title: Structure and Governance for Intentional Communities
 Date: 2023-08-09
 Description: Are you figuring out how to govern a living community? This commentary and governance document may help.
 Tags: environment, dutch, community
-Cover: /blog/img/intentional-community-governance-structure/tennis-court-oaths.jpg
+Cover: blog/img/intentional-community-governance-structure/tennis-court-oaths.jpg
 Slug: intentional-community-governance-structure
 ---
 
@@ -83,7 +83,7 @@ People who want help designing their own structure or adopting this one can cont
 
 ---
 
-![A painting, "The Raft of the Medusa," of a moment from the aftermath of the wreck of the French naval frigate Méduse]({static}/blog/img/intentional-community-governance-structure/raft-of-the-medusa.jpg)
+![A painting, "The Raft of the Medusa," of a moment from the aftermath of the wreck of the French naval frigate Méduse]({static}blog/img/intentional-community-governance-structure/raft-of-the-medusa.jpg)
 
 
 
@@ -264,6 +264,6 @@ For the processes at CIRCLE meetings, GMMs and COMMUNITY DAYS to run smoothly, v
 ---
 
 
-![A Diego Riviera painting titled "The Triumph of the Revolution." In it, workers feed hungry people.]({static}/blog/img/intentional-community-governance-structure/Triumph-Of-The-Revolution-1926.jpg)
+![A Diego Riviera painting titled "The Triumph of the Revolution." In it, workers feed hungry people.]({static}blog/img/intentional-community-governance-structure/Triumph-Of-The-Revolution-1926.jpg)
 
 If you made it all the way down here, you may be interested in designing a system of governance for your own intentional community. Feel free to contact me at [first two letters of my first name][followed by the at sign][followed by this domain of this website].
