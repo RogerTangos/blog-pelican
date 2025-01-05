@@ -20,7 +20,7 @@
 {% block content %}
   <article class="content page-{{ page.slug }}"">
     <header>
-      <h2>{{ page.title }}</h2>
+      <!-- <h2>{{ page.title }}</h2> -->
     </header>
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}

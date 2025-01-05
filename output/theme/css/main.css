@@ -319,3 +319,7 @@ article header a {
     background-color: #000000;
     color: #ffffff;
 }
+
+body.page-contact h1 {
+    display: none; /* Hides the title */
+}
