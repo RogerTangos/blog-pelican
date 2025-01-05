@@ -1,7 +1,7 @@
 AUTHOR = "Albert R Carter"
 SITENAME = "Albert R Carter"
 SITEURL = "https://rogertangos.github.io/blog-pelican"
-RELATIVE_URLS=False
+RELATIVE_URLS=True
 
 PATH = "content"
 STATIC_PATHS = ["blog/img/", "images"]
