@@ -3,7 +3,7 @@ Title: Learning Dutch the Slow Way
 Date: 2021-06-02
 Description: I am not a polyglot and I do not have a natural predisposition to language learning. In language classroom settings, Im a middling student. However, over the past year, I have managed to teach myself A2 to B1 level Dutch without attending in-person classes. Here's how."
 Tags: education, dutch
-Cover: /blog/img/learning-dutch/clogs-klompen.jpg
+Cover: blog/img/learning-dutch/clogs-klompen.jpg
 Slug: how-to-learn-dutch-the-slow-way
 ---
 

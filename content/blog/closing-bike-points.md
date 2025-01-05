@@ -3,7 +3,7 @@ Title: Closing The BikePoints Project
 Date: 2021-02-15
 Description: Ending my work on the BikePoints project.
 Tags: bikepoints, bicycling, programming
-Cover: /blog/img/closing-bike-points/MA_DOT_Sign.png
+Cover: blog/img/closing-bike-points/MA_DOT_Sign.png
 Slug: closing-bike-points
 ---
 

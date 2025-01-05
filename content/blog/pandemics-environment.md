@@ -3,7 +3,7 @@ Title: 6 Ways That Pandemics and the Environment Are Inseparable
 Date: 2020-06-22
 Description: Explaining some of the less-visible connections between infectious disease and the climate and ecological crisis; how many pandemics begin; and how, by fighting against environmental destruction, we can also play a part in preventing the next pandemic.
 Tags: activism, covid-19, pandemics, environment
-Cover: /blog/img/pandemics-environment/earth-cream-covid-cone.png
+Cover: blog/img/pandemics-environment/earth-cream-covid-cone.png
 Slug: pandemics-environment
 ---
 
@@ -81,7 +81,7 @@ Extinction Rebellion calls this fight a rebellion. If you are interested in join
 
 *Written by Albert Carter and the [Extinction Rebellion Comic Science Working Group](https://xrscience.earth). Illustrations by Comic Science. This piece is also featured on the <a href="https://rebellion.global/blog/2020/07/22/pandemics-environment/" rel="canonical">Extinction Rebellion Blog</a>.*
 
-*You can contact the author at [{static}/contact]({static}/contact)*
+*You can contact the author at [{static}/pages/contact]({static}/pages/contact)*
 
 # References
 

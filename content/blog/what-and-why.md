@@ -3,7 +3,7 @@ Title: Why a blog?
 Date: 2019-06-04
 Description: I'm giving myself between 6 and 9 months of unpaid time to change careers.
 Tags: activism, finance, environment
-Cover: /blog/img/what-and-why/sea.jpg
+Cover: blog/img/what-and-why/sea.jpg
 Slug: an-activist-adventure
 ---
 
@@ -53,4 +53,4 @@ Your reading this also helps me. It encourages me through a strange career move,
 
 What evaluation criteria would you suggest for this experiment? What actions might I take, that will help me achieve my milestones? How can I make this a better read for you?
 
-**Sign up for the email list and then mail me directly once I send out the next post at [albertrcarter.com/supersecretcontactform]({static}/supersecretcontactform)**
+**Sign up for the email list and then mail me directly once I send out the next post at [{static}/pages/contact]({static}/pages/contact)**

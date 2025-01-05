@@ -3,7 +3,7 @@ Title: A Conquistador, the Climate Crisis, and the Finances of Atrocity
 Date: 2021-04-12
 Description: Hernán Cortés, the conquistador who toppled the Aztec Empire, was a man of terrible and unrelenting ambition. Yet his conquests shrank as time went on. Learn about how Cortés’ crimes were brought to a halt, as the crimes of the climate crisis can be too.
 Tags: activism, environment, financialactivism
-Cover: /blog/img/cortes-climate/cortes-climate-crisis-image6.png
+Cover: blog/img/cortes-climate/cortes-climate-crisis-image6.png
 Slug: conquistador-climate-crisis-finances-atrocity
 ---
 

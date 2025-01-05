@@ -3,7 +3,7 @@ Title: 1. Phishing for Leaks: A Tactic to Take Down Fossil Fuels
 Date: 2020-08-25
 Description: Encouraging industry insiders to leak. One of 3 tactics to take down fossil fuels.
 Tags: activism, programming, financialactivism
-Cover: /blog/img/ff-campaign-1-leaks-for-liability/leak.jpg
+Cover: blog/img/ff-campaign-1-leaks-for-liability/leak.jpg
 Slug: leaks-for-liability-against-fossil-fuels
 ---
 
