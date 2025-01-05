@@ -40,7 +40,7 @@ More fossil fuel leaks can lead to more lawsuits, damaging the companies involve
 
 Potential leakers working at fossil fuel companies may not _like_ their employer. They may not like their co-workers, or their boss. They may detest the industry, but work in it because they need to provide for their family. Soliciting and facilitating leaks from them can help them affect change.
 
-![A sales funnel. Wide to narrow: all employees, disgruntled employees, contacted employees, leakers]({static}blog/img/ff-campaign-1-leaks-for-liability/leaker-funnel.png)
+![A sales funnel. Wide to narrow: all employees, disgruntled employees, contacted employees, leakers]({static}/blog/img/ff-campaign-1-leaks-for-liability/leaker-funnel.png)
 
 ### Logistics
 

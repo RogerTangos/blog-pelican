@@ -36,7 +36,7 @@ Sometimes, finding a newcomer's ideas unworkable, activist groups will encourage
 
 __My blogging is meant to provide proof that I have thought through my ideas, and that I'm willing to put real work into activist campaigns, including those that aren't my own. I hope that this will make me a desirable asset for most groups that I would like to work with.__
 
-![A flow chart representing the above text]({static}blog/img/june-july-update-2020/Strategy1.png)
+![A flow chart representing the above text]({static}/blog/img/june-july-update-2020/Strategy1.png)
 
 
 ## 2. Teasing potential projects (September)
@@ -53,7 +53,7 @@ This may all seem vague... I'm writing about making websites and fixing people's
 
 **I see technical and professional skills as a force multiplier and fertile grounds for creativity. Hopefully, a list of potential projects will build credibility for my ideas, help organizers imagine additional types of creative action, and save me from becoming tech support.**
 
-![A Venn diagram showing "Technical Skills" and "Creative Expression." The overlap is notated, "where I want to be."]({static}blog/img/june-july-update-2020/Strategy2.png)
+![A Venn diagram showing "Technical Skills" and "Creative Expression." The overlap is notated, "where I want to be."]({static}/blog/img/june-july-update-2020/Strategy2.png)
 
 ## 3. Execution (September - December)
 
@@ -72,7 +72,7 @@ After the campaign, I hope to step back, evaluate the results, and plot next ste
 
 3. **In the muddled case, the campaign will have been successful, though it either will have not used my hard skills or will have not created clear economic winners.** This outcome may lead me to either launch another campaign, go back to non-activist programming, or seek funding from existing activist organizations. Unfortunately, without clear economic winners, external funding will be more difficult to come by.
 
-![A flow chart showing potential outcomes and results.]({static}blog/img/june-july-update-2020/Strategy4.png)
+![A flow chart showing potential outcomes and results.]({static}/blog/img/june-july-update-2020/Strategy4.png)
 
 
 

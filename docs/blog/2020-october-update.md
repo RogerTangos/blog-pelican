@@ -21,7 +21,7 @@ There’s not much to do while living in the countryside of a new country weathe
 In short, between August 1st and October 16th, I’ve started a new project for bicycle wayfinding, progressed on learning Dutch, done too little activism, and completed stacks of administrative paperwork:
 
 
-![Pie chart showing recent effort. Bike Points 38%, Dutch 29%, Activism 12%, Personal 21%]({static}blog/img/2020-october-update/pie-chart.png)
+![Pie chart showing recent effort. Bike Points 38%, Dutch 29%, Activism 12%, Personal 21%]({static}/blog/img/2020-october-update/pie-chart.png)
 
 ---
 

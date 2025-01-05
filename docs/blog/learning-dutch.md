@@ -23,7 +23,7 @@ While learning Dutch, I've been through a fair number of tools, courses, and boo
 # LearnDutch.org
 [LearnDutch.org](https://learndutch.org) offers high quality group or solo Dutch lessons. I haven't had any desire to be on video chat more than I have to be, so have made use of the solo-learning materials, including the free vocabulary lessons and the paid grammar course (€120 for the bundle). There are other free supplemental materials on the site.
 
-[![learndutch.org screenshot]({static}blog/img/learning-dutch/learndutchdotorg.png)](https://learndutch.org)
+[![learndutch.org screenshot]({static}/blog/img/learning-dutch/learndutchdotorg.png)](https://learndutch.org)
 
 #### LearnDutch.org Vocab
 Early in my Dutch learning experience, I completed the first 20 learndutch.org vocabulary lessons, doing roughly one a day. I also created flash cards for various vocabulary words. (In retrospect the vocabulary flash cards were a waste of effort.) I found these lessons tedious and do not think that they were the best way to learn vocabulary. However, I would still they were extremely helpful for learning how to spell and read. Spelling in Dutch more logical and consistent than spelling in English. Learning basic spelling rules allowed me to begin sounding out and reading words, which was more valuable than vocabulary lessons themselves.
@@ -38,7 +38,7 @@ If I were to begin learning Dutch from scratch, I would complete the first 10 vo
 # Pimsleur Audiobooks
 [Pimsleur](https://www.pimsleur.com/learn-dutch) offers a series of Dutch language audiobooks and small accompanying vocabulary lists for \$130. It is possible to purchase the CD's second hand or borrow them from some libraries. Pimsleur claims that completing a course with them will make you conversational.
 
-[![Pimsleur Dutch album image]({static}blog/img/learning-dutch/pimsleurdutch.jpg)](https://www.pimsleur.com/learn-dutch)
+[![Pimsleur Dutch album image]({static}/blog/img/learning-dutch/pimsleurdutch.jpg)](https://www.pimsleur.com/learn-dutch)
 
 I found Pimsleur audiobooks to be slow and extremely easy. I was easilyable to listen to them while running, doing dishes, or working in the garden, and I rarely needed to pause the book or to think about my responses to the audio prompts. I felt that Pimsleur helped me become comfortable with very introductory Dutch conversation and pronunciation. By the end of the series, I was able to say things like "Hello," "I'm well." Would you like to have dinner?" "Should I bring beer?" etc., but I wasn't really able to create new sentences or understand more general conversations.
 
@@ -49,7 +49,7 @@ If I were to begin learning Dutch from scratch, I would probably not use Pimsleu
 # Michel Thomas Audiobooks
 [Michel Thomas](https://www.michelthomas.com/) also offers an alternative series of Dutch language audiobooks for \$139. As with Pimsleur, it is possible to purchase the CD's second hand or borrow them from a library. Michel Thomas claims that completing a course will make you speak Dutch at an intermediate level.
 
-[![Michel Thomas Dutch]({static}blog/img/learning-dutch/mt-dutch.png)](https://www.michelthomas.com/learn-dutch/)
+[![Michel Thomas Dutch]({static}/blog/img/learning-dutch/mt-dutch.png)](https://www.michelthomas.com/learn-dutch/)
 
 I found Michel Thomas audiobooks to be friendly and fast paced. Occasionally, I found tracks and albums to be challenging, requiring me to frequently hit the pause button and consider my response to audio prompts. At the start of the series, I was able to simultaneously run and listen to Michele Thomas tracks. By the last disk of the series, I was only able to listen to tracks while walking and often had to replay entire disks. I would not recommend driving while listening.
 
@@ -63,7 +63,7 @@ If I were to begin learning Dutch from scratch, I would pair the Michel Thomas a
 
 [The Babbel language app](https://www.babbel.com/) offers an app-based language learning experience for roughly \$80/year. The app experience is slick and includes lessons on traditions, idioms, pronunciation, basic grammar, and vocabulary. Babbel claims to be a comprehensive learning experience.
 
-[![Babbel app spelling exercise screenshot]({static}blog/img/learning-dutch/babbel.png)](https://www.babbel.com/)
+[![Babbel app spelling exercise screenshot]({static}/blog/img/learning-dutch/babbel.png)](https://www.babbel.com/)
 
 #### Babbel Vocab
 I found Babbel app to be clean, informative, and attractive. I made frequent use of its vocabulary section, which is extensive and well put together, and I have made significant use of it. Along with introducing new words, some people at Babbel have done an excellent job of choosing photos to illustrate the concept behind the words. Even for difficult words like "genezen" (to heal), "trouw" (faithful), or "ungehoorzaam" (disobedient), the Babbel team has found the perfect picture. Throughout the learning process, users are asked to match words to photos, type words, and to say them. The written/typed exercise UI is quite innovative and effective. After learning a word, the app uses spaced repetition to reinforce the knowledge.
@@ -84,7 +84,7 @@ I often think of reading, watching tv, or listening to music as a leisure activi
 ## Books
 In my studies, I made use of introductory Dutch language books and of Dutch children's books. I found that children's books were more entertaining, but that they were also filled with incomplete sentences, idioms, and sounds like "pow" (pow) and "hatsjoe"  (a sneeze), making it difficult to understand what was being said. As a result, I found books intended to teach adults Dutch were much more helpful than children's books. Another book, ["De jongen, de mol, de vos en het paard"](https://libris.nl/actueel/uitgelicht/de-jongen-de-mol-de-vos-en-het-paard-van-charlie-mackesy/), was also a delight to read.
 
-![De jongen de mol de vos en het paard cover]({static}blog/img/learning-dutch/jongen-mol-vos-paard.jpg)
+![De jongen de mol de vos en het paard cover]({static}/blog/img/learning-dutch/jongen-mol-vos-paard.jpg)
 
 
 #### How to use Books to Learn Dutch
@@ -94,7 +94,7 @@ If I were to begin learning Dutch from scratch, I would buy an e-reader that can
 ## Movies and TV
 I watched TV shows and Movies in Dutch via Netflix and Disney Plus. If choosing between the two, Disney+'s family friendly content means that it generally has a better catalog of Dutch-audio programming and I would recommend going with that. The subtitles and the spoken words never match perfectly, but in most cases, they're good enough.
 
-![Aladdin live action screenshot]({static}blog/img/learning-dutch/aladdin.png)
+![Aladdin live action screenshot]({static}/blog/img/learning-dutch/aladdin.png)
  
  
 # How I'm Continuing to Learn Dutch

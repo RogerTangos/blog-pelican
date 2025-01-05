@@ -25,7 +25,7 @@ The 2016 election and aftermath was characterized by [divisive trolling.](https:
 
 In the real world, people eventually de-escalate their anger. In social media, that circuit-breaker is jammed, because it's more profitable that way.
 
-![without social media dark UX: anger -> discussion -> reconciliation. with social dark ux: anger <-> discussion -> discfunction; discussion -> views -> ad clicks -> \$0.10 made from your 3am social media argument]({static}blog/img/ff-campaign-3-amplifying-corporate-dissent/dark-ux-in-social-media.png)
+![without social media dark UX: anger -> discussion -> reconciliation. with social dark ux: anger <-> discussion -> discfunction; discussion -> views -> ad clicks -> \$0.10 made from your 3am social media argument]({static}/blog/img/ff-campaign-3-amplifying-corporate-dissent/dark-ux-in-social-media.png)
 
 **What if this happened to an essential company in the fossil fuel supply chain?**
 
@@ -58,7 +58,7 @@ Here's a sample to-do list to amplify corporate dissent:
 - You may also have internet troll friends who can help.
 - I'm too earnest to be a good internet troll, so don't ask me to do this.
 
-![a diagram showing that it's best to amplify dissent in essential parts of the fossil fuel value chain. Parts of the value chain that other other parts depend on are highlighted.]({static}blog/img/ff-campaign-3-amplifying-corporate-dissent/what-to-troll.png)
+![a diagram showing that it's best to amplify dissent in essential parts of the fossil fuel value chain. Parts of the value chain that other other parts depend on are highlighted.]({static}/blog/img/ff-campaign-3-amplifying-corporate-dissent/what-to-troll.png)
 
 
 ---

@@ -35,7 +35,7 @@ Disrupting the roadshow is another way to hurt fossil fuel companies' balance sh
 
 When this happens, management will receive the strongest possible market signal that it _must_ consider environmental impacts. (What signal is stronger than your investors/potential owners demanding that you do something?) **This can lead either to less environmentally destructive or to scrapped fossil fuel projects, allowing funding to be diverted to non-fossil fuel investments.**
 
-![overt activists present environmental concerns relevant to the bottom line to potential investors. Potential investors also includes undercover activists. Potential investors present environmentally related to management. Management gives back possibly smart replies. Management also changes current and future business plans.]({static}blog/img/ff-campaign-2-crashing-the-roadshow/roadshow-pressure-diagram.png)
+![overt activists present environmental concerns relevant to the bottom line to potential investors. Potential investors also includes undercover activists. Potential investors present environmentally related to management. Management gives back possibly smart replies. Management also changes current and future business plans.]({static}/blog/img/ff-campaign-2-crashing-the-roadshow/roadshow-pressure-diagram.png)
 
 ### Logistics
 

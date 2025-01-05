@@ -24,7 +24,7 @@ Initially, by lending Cortés money, his investors and creditors made possible a
 
 When telling the story of Cortés' conquests, we often tell a story about a single greedy man. This story, however, is about money. It is a story about money’s role in enabling Cortés' atrocities and about money’s role in the modern-day atrocity that is the climate crisis. It’s a story that, today, can tell us more than ever.
 
-![money in a chest converting to guns]({static}blog/img/cortes-climate/cortes-climate-crisis-image3.png)
+![money in a chest converting to guns]({static}/blog/img/cortes-climate/cortes-climate-crisis-image3.png)
 
 ## This System Funds Atrocities
 
