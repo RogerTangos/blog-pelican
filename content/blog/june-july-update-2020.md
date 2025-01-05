@@ -13,7 +13,7 @@ It's the end of July, and time for an update on my activist strategy and activit
 
 _I'm curious to know what you notice about this. There's a <a href="#survey">📋 survey at the bottom of the page.</a>_
 
-_If you would like to receive emails with similar pieces I write, please let me know at [https://albertrcarter.com/contact](https://albertrcarter.com/contact)._
+_If you would like to receive emails with similar pieces I write, please let me know at [{static}/contact]({static}/contact)._
 
 
 

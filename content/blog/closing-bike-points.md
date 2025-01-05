@@ -8,7 +8,7 @@ Slug: closing-bike-points
 ---
 
 
-_"BikePoint" wayfinding is an innovative system of wayfinding in widespread use in Western Europe, but practically unknown and unheard of in the United States. A BikePoint wayfinding system is made of many "bike points," which are of numbered intersections connected by well-labeled bike-friendly routes. They simplify bicycle navigation while routing cyclists onto a predetermined network of streets and paths. There is a [more detailed post about BikePoints here.](https://www.albertrcarter.com/bike-points)_
+_"BikePoint" wayfinding is an innovative system of wayfinding in widespread use in Western Europe, but practically unknown and unheard of in the United States. A BikePoint wayfinding system is made of many "bike points," which are of numbered intersections connected by well-labeled bike-friendly routes. They simplify bicycle navigation while routing cyclists onto a predetermined network of streets and paths. There is a [more detailed post about BikePoints here.]({static}/bike-points)_
 
 BikePoint wayfinding is more efficient, and easier to use, and requires less physical infrastructure than traditional wayfinding systems. In the United States, it can serve as low-hanging fruit for rapid bicycle and pedestrian transit improvement. In Massachusetts at least, **unfortunately, BikePoint wayfinding also exists in a regulatory and political state of limbo. As a result, after four months of trying to bring BikePoints to the United States, I have put down the project.**
 
@@ -19,7 +19,7 @@ This piece is meant to communicate steps and missteps I took along the way. In t
 Over the past months, I have taken several steps to try and implement BikePoint wayfinding. My efforts focused exclusively on Massachusetts, where I used to live and can motivate various parts of my social network. This project might have worked somewhere outside of Massachusetts, though that's difficult to know without having tried it.
 
 * August-September, 2020: [Worked on node-finding and route-fitting algorithms](https://github.com/RogerTangos/bikepoints-scratch) for generating BikePoint networks.
-* September 14, 2020: [Published this blog post](https://www.albertrcarter.com/bike-points) explaining what bike points are.
+* September 14, 2020: [Published this blog post]({static}/bike-points) explaining what bike points are.
 * November 10, 2020: Launched the [bikepoints.org](https://bikepoints.org) website.
 * November-December 2021:  Reached out to Massachusetts city and county planning authorities and Massachusetts Department of Transportation
 * December-January 2020-2021: Reached out to various distribution channels requesting help publicizing BikePoints.

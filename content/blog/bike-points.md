@@ -6,7 +6,7 @@ Tags: datascience, bicycling, programming, bikepoints
 Cover: /blog/img/bike-points/point-86.jpg
 Slug: bike-points
 ---
-*by [Albert Carter](https://albertrcarter.com) and [Alex Crompton](github.com/cromptone).*
+*by [Albert Carter]({static}) and [Alex Crompton](github.com/cromptone).*
 
 *Update, November 4, 2020: a [BikePoints website](https://www.bikepoints.org) is now live.*
 

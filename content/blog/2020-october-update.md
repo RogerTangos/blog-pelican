@@ -27,7 +27,7 @@ In short, between August 1st and October 16th, I’ve started a new project for 
 
 # 🚲 🗺 ↖️ BikePoints:
 
-[BikePoints](https://albertrcarter.com/bike-points), a project to create Dutch style way-finding networks in the US, has consumed roughly 38% of my effort. Over the period, a friend and I were able to program a proof-of-concept bike network and produce a blog post. Following this, I was able to submit a proposal to the City of Cambridge, Massachusetts, which city Councilor Zondervan has been helpful in supporting.
+[BikePoints]({static}/bike-points), a project to create Dutch style way-finding networks in the US, has consumed roughly 38% of my effort. Over the period, a friend and I were able to program a proof-of-concept bike network and produce a blog post. Following this, I was able to submit a proposal to the City of Cambridge, Massachusetts, which city Councilor Zondervan has been helpful in supporting.
 
 The BikePoints sits on the intersection of several interests for me, including public service, transit infrastructure, data science, and environmentalism. I am doing this work entirely pro-bono in hopes that the cities of Somerville and Cambridge make use of the concept. However, I hope to eventually spin it into a stand-alone business.
 
@@ -49,9 +49,9 @@ In the upcoming months, I will be working on my conversational Dutch skills by r
 
 # ✊ 📈 Activism:
 
-Activism has consumed 12% of my recent effort, with little to show for it. My remote location, unpredictable COVID-19 restrictions, and the language barrier have all made it extremely difficult to coordinate within Dutch-speaking groups, as was [my previous plan](https://www.albertrcarter.com/june-juy-update-2020).
+Activism has consumed 12% of my recent effort, with little to show for it. My remote location, unpredictable COVID-19 restrictions, and the language barrier have all made it extremely difficult to coordinate within Dutch-speaking groups, as was [my previous plan]({static}/june-juy-update-2020).
 
-As a  result, I’ve written [a few pieces](https://www.albertrcarter.com/leaks-for-liability-against-fossil-fuels) and attended an established activist group’s retreat weekend , but otherwise failed to become meaningfully involved in ongoing activist projects.
+As a  result, I’ve written [a few pieces]({static}/leaks-for-liability-against-fossil-fuels) and attended an established activist group’s retreat weekend , but otherwise failed to become meaningfully involved in ongoing activist projects.
 
 
 ## Next Steps with Activism: Executive Education
@@ -69,7 +69,7 @@ I do not expect the bureaucratic burden to lessen. In the upcoming period, I wil
 ---
 
 # 🙏 💬 Requests for Assistance
-I would welcome help in any of the following areas. In all of the below cases, I would love to share credit. My email address is `al [at] [this domain name]`, though you can also reach me at [my contact page](https://albertrcarter.com/contact).
+I would welcome help in any of the following areas. In all of the below cases, I would love to share credit. My email address is `al [at] [this domain name]`, though you can also reach me at [my contact page]({static}/contact).
 
 ### ✍️Editing and Writing Help
 My activism efforts will involve writing two more pieces on the Extinction Rebellion global blog, while BikePoints involves writing copy for the BikePoints website.
@@ -98,5 +98,5 @@ Much of my work is based on expert insights from within my community:
 
 --
 
-*If you would like to receive emails with similar pieces I write, or if you would prefer not to continue receiving list emails, please let me know at [https://albertrcarter.com/contact](https://albertrcarter.com/contact).*
+*If you would like to receive emails with similar pieces I write, or if you would prefer not to continue receiving list emails, please let me know at [{static}/contact]({static}/contact).*
 

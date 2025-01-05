@@ -53,4 +53,4 @@ Your reading this also helps me. It encourages me through a strange career move,
 
 What evaluation criteria would you suggest for this experiment? What actions might I take, that will help me achieve my milestones? How can I make this a better read for you?
 
-**Sign up for the email list and then mail me directly once I send out the next post at [albertrcarter.com/supersecretcontactform](https://albertrcarter.com/supersecretcontactform)**
+**Sign up for the email list and then mail me directly once I send out the next post at [albertrcarter.com/supersecretcontactform]({static}/supersecretcontactform)**

@@ -31,5 +31,5 @@ Your **first** priority should be leaving any bank that gives fossil fuel loans;
 *I'm unable to post the full article here, but if you would like you can go to [https://bank.green/blog/how-to-defund-putin](https://bank.green/blog/how-to-defund-putin) to get more detail as to why some financial strategies work — and why others don’t.*
 
 
-*If you would like to receive emails with similar pieces I write, or if you would prefer not to continue receiving list emails, please let me know at [https://albertrcarter.com/contact](https://albertrcarter.com/contact).*
+*If you would like to receive emails with similar pieces I write, or if you would prefer not to continue receiving list emails, please let me know at [{static}/contact]({static}/contact).*
 

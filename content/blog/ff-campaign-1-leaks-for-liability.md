@@ -27,7 +27,7 @@ The Phillip-Morris tobacco company was laid low by class-action lawsuits, after 
 
 ### A New Way to Induce Leaks
 
-In my [programming career](https://www.albertrcarter.com/resume), I'm messaged by recruiters almost weekly, I receive emails about new tools and services hourly, and I'm advertised to constantly. Despite my past access to politically and legally sensitive information, I've never been asked to leak any of it. (Nor have I leaked any.)
+In my [programming career]({static}/resume), I'm messaged by recruiters almost weekly, I receive emails about new tools and services hourly, and I'm advertised to constantly. Despite my past access to politically and legally sensitive information, I've never been asked to leak any of it. (Nor have I leaked any.)
 
 It appears that there are two main ways to leak today:
 

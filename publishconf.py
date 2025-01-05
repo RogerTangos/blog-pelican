@@ -8,8 +8,8 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = "https://albertrcarter.com"
-RELATIVE_URLS = False
+SITEURL = "https://rogertangos.github.io/blog-pelican"
+RELATIVE_URLS = False  # Ensure absolute URLs for production
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"

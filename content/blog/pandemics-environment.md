@@ -81,7 +81,7 @@ Extinction Rebellion calls this fight a rebellion. If you are interested in join
 
 *Written by Albert Carter and the [Extinction Rebellion Comic Science Working Group](https://xrscience.earth). Illustrations by Comic Science. This piece is also featured on the <a href="https://rebellion.global/blog/2020/07/22/pandemics-environment/" rel="canonical">Extinction Rebellion Blog</a>.*
 
-*You can contact the author at [https://albertrcarter.com/contact](https://albertrcarter.com/contact)*
+*You can contact the author at [{static}/contact]({static}/contact)*
 
 # References
 
