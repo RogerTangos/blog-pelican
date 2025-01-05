@@ -49,9 +49,9 @@ In the upcoming months, I will be working on my conversational Dutch skills by r
 
 # ✊ 📈 Activism:
 
-Activism has consumed 12% of my recent effort, with little to show for it. My remote location, unpredictable COVID-19 restrictions, and the language barrier have all made it extremely difficult to coordinate within Dutch-speaking groups, as was [my previous plan]({static}/june-juy-update-2020).
+Activism has consumed 12% of my recent effort, with little to show for it. My remote location, unpredictable COVID-19 restrictions, and the language barrier have all made it extremely difficult to coordinate within Dutch-speaking groups, as was [my previous plan]({static}/june-july-update-2020).
 
-As a  result, I’ve written [a few pieces]({static}/leaks-for-liability-against-fossil-fuels) and attended an established activist group’s retreat weekend , but otherwise failed to become meaningfully involved in ongoing activist projects.
+As a  result, I’ve written [a few pieces]({static}/leaks-for-liability-against-fossil-fuels.html) and attended an established activist group’s retreat weekend , but otherwise failed to become meaningfully involved in ongoing activist projects.
 
 
 ## Next Steps with Activism: Executive Education

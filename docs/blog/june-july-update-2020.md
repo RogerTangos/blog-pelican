@@ -4,7 +4,7 @@ Date: 2020-07-31
 Description: An update on my strategy and activities in June and July, 2020
 Tags: activism, Dutch, accountability
 Cover: blog/img/june-july-update-2020/loudspeaker.png
-Slug: june-juy-update-2020
+Slug: june-july-update-2020
 ---
 
 # 📢 June - July Update
@@ -132,6 +132,4 @@ In the period, I did draft a piece based on the [Money Talks video series](https
 ---
 
 # 😯 So, uhh... what do you think? 😯
-<a name="survey"></a>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeUlNXE9iMDWsgKa0Mqt2XGUDyULgC0CjOQk8X6AwmjY27p5A/viewform?embedded=true" width="640" height="2413" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Let me know at [the contact page]({static}/pages/contact)
