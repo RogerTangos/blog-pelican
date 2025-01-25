@@ -11,3 +11,6 @@ to build for remote:
 ```
 make publish; git add .; git commit -m "publish"; gp
 ```
+
+DO NOT USE
+`make publish` 

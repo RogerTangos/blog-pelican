@@ -31,10 +31,10 @@ AUTHOR_FEED_RSS = None
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = [
-    ('Home', '/'),
-    ('About', '/pages/about/'),
-    ('Resume', '/pages/resume/'),
-    ('Contact', '/pages/contact/')
+    ('Home', f'{SITEURL}/'),
+    ('About', f'{SITEURL}/pages/about/'),
+    ('Resume', f'{SITEURL}/pages/resume/'),
+    ('Contact', f'{SITEURL}/pages/contact/')
 ]
 
 DISPLAY_PAGES_ON_MENU = False
