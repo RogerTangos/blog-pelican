@@ -27,10 +27,10 @@ AUTHOR_FEED_RSS = None
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = [
-    ('Home', '{}/'.format(SITEURL)),
-    ('About', '{}/pages/about/'.format(SITEURL)),
-    ('Resume', '{}/pages/resume/'.format(SITEURL)),
-    ('Contact', '{}/pages/contact/'.format(SITEURL)),
+    ('Home', '/'),
+    ('About', '/pages/about/'),
+    ('Resume', '/pages/resume/'),
+    ('Contact', '/pages/contact/')
 ]
 
 DISPLAY_PAGES_ON_MENU = False
