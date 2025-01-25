@@ -3,8 +3,8 @@ Date: 2025-01-02
 
 I'm a director, engineering manager, and backend developer. Here, you can find the projects I've worked on, as well as highlights of my key skills and downloadable versions of my resume.
 
-- <i class="fas fa-file-pdf"></i> [Download Resume as PDF](../images/AlbertCarterResume.pdf){:target="_blank"}
-- <i class="fas fa-file-alt"></i> [Download Resume as Plain Text](../images/AlbertCarterResume.txt){:target="_blank"}
+- <i class="fas fa-file-pdf"></i> [Download Resume as PDF](/images/AlbertCarterResume.pdf){:target="_blank"}
+- <i class="fas fa-file-alt"></i> [Download Resume as Plain Text](/images/AlbertCarterResume.txt){:target="_blank"}
 
 
 ---
