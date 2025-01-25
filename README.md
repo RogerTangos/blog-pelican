@@ -12,5 +12,4 @@ to build for remote:
 make publish; git add .; git commit -m "publish"; gp
 ```
 
-DO NOT USE
-`make publish` 
+DO NOT USE `make publish`, since it seems to not properly incorporate SITEURL when generating menu pages.
