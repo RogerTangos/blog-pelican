@@ -1,6 +1,6 @@
 AUTHOR = "Albert R Carter"
 SITENAME = "Albert R Carter"
-SITEURL = "https://rogertangos.github.io/blog-pelican"
+SITEURL = "localhost:8000"
 RELATIVE_URLS=True
 
 DELETE_OUTPUT_DIRECTORY = True
@@ -51,6 +51,3 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
