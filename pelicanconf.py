@@ -4,6 +4,7 @@ SITEURL = "https://rogertangos.github.io/blog-pelican"
 RELATIVE_URLS=True
 
 DELETE_OUTPUT_DIRECTORY = True
+OUTPUT_PATH = 'docs/'
 
 
 PATH = "content"
