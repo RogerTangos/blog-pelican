@@ -8,7 +8,11 @@ OUTPUT_PATH = 'docs/'
 
 
 PATH = "content"
-STATIC_PATHS = ["blog/img/", "images"]
+STATIC_PATHS = ["blog/img/", "images", "theme/static"]
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+
+
 
 TIMEZONE = "Europe/Rome"
 
