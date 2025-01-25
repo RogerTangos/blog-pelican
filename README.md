@@ -4,4 +4,10 @@ pelican -r -l
 pelican content; pelican --listen
 ```
 
-pelican content -s publishconf.py; cp -r output/* docs/; git add docs; gcm "publish"; gp
+pelican content -s publishconf.py; git add docs; gcm "publish"; gp
+
+to build for remote:
+
+```
+make publish; git add .; git commit -m "publish"; gp
+```
