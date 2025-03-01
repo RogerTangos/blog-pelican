@@ -16,7 +16,7 @@ At least that's how the do-good career cycle often goes.
 
 I spent the last decade and a half trying to reverse that cycle.[^1] Instead of jumping straight to mission-driven work, I used well-paid but often meaningless-feeling work to build my hard skills and a retirement fund, embraced a thrifty lifestyle, and only recently began doing mission-driven work.
 
-Then, during the pandemic in 2021, with the financial means to (mostly) sustain myself and the skills to make an impact, I created a nonprofit. In 2023 I joined it full-time. In 2024, I started earning a small stipend from my co-founder's largesse, and later, a grant.
+Then, during the pandemic in 2021, with the financial means to (mostly) sustain myself and the skills to make an impact, I created a nonprofit. (It launched with [this blog post](https://bank.green/blog/cortes-climate-crisis), also by yours truly.) In 2023, I joined it full-time. In 2024, I started earning consulting fees from my co-founder's largesse, and later, a grant.
 
 I did it! At least, the quitting-meaningless-work first part of, "it." Maybe, "it," can also count as the second part, building-a-mission-driven-org. The jury is still out on the making-actual-change third part.
 
