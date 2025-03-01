@@ -1,12 +1,14 @@
 Title: About
 Date: 2024-10-10
-Modified: 2010-10-10
+Modified: 2025-03-01
 Slug: about
 Authors: Albert Carter
 Status: published
 
 
-Albert Carter is an environmental financial campaigner, programmer, engineering manager, and a director of [Bank.Green](https://bank.green)
+Albert Carter is an environmental financial campaigner, programmer, engineering manager, and a director of [Bank.Green](https://bank.green).
+
+He has significant experience in constructing data processing and harvesting pipelines and is available for contract work.
 
 --- 
 
