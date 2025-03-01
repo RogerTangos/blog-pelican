@@ -8,7 +8,7 @@ pelican content; pelican --listen
 to build for remote:
 
 ```
-pelican content -s publishconf.py; git add docs; gcm "update resume url"; gp
+pelican content -s publishconf.py; git add docs; gcm "update page"; gp
 ```
 
 DO NOT USE `make publish`, since it seems to not properly incorporate SITEURL when generating menu pages.
