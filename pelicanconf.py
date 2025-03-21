@@ -1,17 +1,19 @@
 AUTHOR = "Albert R Carter"
 SITENAME = "Albert R Carter"
 SITEURL = "localhost:8000"
-RELATIVE_URLS=True
+RELATIVE_URLS = True
 
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_PATH = 'docs/'
+OUTPUT_PATH = "docs/"
 
 
 PATH = "content"
-STATIC_PATHS = ["blog/img/", "images", "theme/static"]
-PAGE_SAVE_AS = 'pages/{slug}/index.html'
-PAGE_URL = 'pages/{slug}/'
-
+STATIC_PATHS = ["blog/img/", "images", "theme/static", "extra/CNAME"]
+EXTRA_PATH_METADATA = {
+    "extra/CNAME": {"path": "CNAME"},
+}
+PAGE_SAVE_AS = "pages/{slug}/index.html"
+PAGE_URL = "pages/{slug}/"
 
 
 TIMEZONE = "Europe/Rome"
@@ -31,10 +33,10 @@ AUTHOR_FEED_RSS = None
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = [
-    ('Home', f'{SITEURL}/'),
-    ('About', f'{SITEURL}/pages/about/'),
-    ('Resume', f'{SITEURL}/pages/resume/'),
-    ('Contact', f'{SITEURL}/pages/contact/')
+    ("Home", f"{SITEURL}/"),
+    ("About", f"{SITEURL}/pages/about/"),
+    ("Resume", f"{SITEURL}/pages/resume/"),
+    ("Contact", f"{SITEURL}/pages/contact/"),
 ]
 
 DISPLAY_PAGES_ON_MENU = False

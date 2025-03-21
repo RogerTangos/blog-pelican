@@ -15,13 +15,13 @@ FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_PATH = 'docs/'
+OUTPUT_PATH = "docs/"
 
 MENUITEMS = [
-    ('Home', f'{SITEURL}/'),
-    ('About', f'{SITEURL}/pages/about/'),
-    ('Resume', f'{SITEURL}/pages/resume/'),
-    ('Contact', f'{SITEURL}/pages/contact/')
+    ("Home", f"{SITEURL}/"),
+    ("About", f"{SITEURL}/pages/about/"),
+    ("Resume", f"{SITEURL}/pages/resume/"),
+    ("Contact", f"{SITEURL}/pages/contact/"),
 ]
 
 # Following items are often useful when publishing
