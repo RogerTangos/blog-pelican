@@ -323,3 +323,14 @@ article header a {
 body.page-contact h1 {
     display: none; /* Hides the title */
 }
+
+sup {
+    font-size: 0.75em; /* Smaller font size */
+    vertical-align: super; /* Raise footnotes */
+}
+
+.footnote .footnote-ref {
+    font-size: 0.85em; /* Slightly smaller font inside footnotes */
+    color: pink; /* Keeping the pink color */
+    text-decoration: underline; /* Visually distinct */
+}
