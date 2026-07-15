@@ -8,13 +8,13 @@ Cover: blog/img/carshare/our-shared-car.png
 Slug: how-to-build-a-carshare
 ---
 
-Do you want a shared car, or do you want to share your car?
+Do you want a shared car, or do you want to share your car?
 
-I recently re-structured a car sharing group, together with 9 other people and two vehicles. I can now drive a car as much as I like for less than I would have otherwise pay to own one. It is also a nicer car than I would otherwise have been willing to afford. While there are sometimes issues with availability, these will resolve themselves as the group grows.
+I recently re-structured a car sharing group, together with 9 other people and two vehicles. I can now drive a car as much as I like for less than I would have otherwise pay to own one. It is also a nicer car than I would otherwise have been willing to afford. While there are sometimes issues with availability, these will resolve themselves as the group grows.
 
-In the process, I designed a fee structure and incentives for our group. This was surprisingly difficult, arguably one of the largest barriers to shared mobility. To encourage more car sharing, I'd like to remove this burden from your shoulders and _share_ my results with you.
+In the process, I designed a fee structure and incentives for our group. This was surprisingly difficult, arguably one of the largest barriers to shared mobility. To encourage more car sharing, I'd like to remove this burden from your shoulders and _share_ my results with you.
 
-Here is the system in short. Later, I'll go into the details of _why_ car sharing is a good thing and why our group is designed this way.
+Here is the system in short. Later, I'll go into the details of _why_ car sharing is a good thing and why our group is designed this way.
 
 ---
 
@@ -100,19 +100,19 @@ One frequent driver was requested not to re-join: the old system had no mechanis
 
 Cars aren't available all the time, which undercuts the pitch for anyone who needs frequent or emergency access. Early on, this means underpricing membership to attract new members while the fleet is still small, a bind that only resolves as the group grows.
 
-**Solution:** The budget balances if members drive somewhat more than they currently do, and a 4:1 member-to-car ratio for the first three cars is designed to make that happen: enough members to keep utilization high, but not so many that booking a car becomes a scramble. Reaching five cars should resolve availability for good, at which point the fleet is dense enough for regular commuter use.
+**Solution:** The budget balances if members drive somewhat more than they currently do, and a 4:1 member-to-car ratio for the first three cars is designed to make that happen: enough members to keep utilization high, but not so many that booking a car becomes a scramble. Reaching five cars should resolve availability for good, at which point the fleet is dense enough for regular commuter use.
 
 ### Special-Needs Cars
 
 People often need a car for something specific: long commutes, kids, dogs, tow hitches, distant trips, and a small shared fleet can't cover all of it at once.
 
-**Solution:** We've prioritized more expensive, general-purpose vehicles first and plan to specialize later. Our electric VW ID.3 cost more than we'd have liked (€14,000), but it seats even our tallest member and can drive to nearly anywhere in the Netherlands and back on a single charge, general-purpose enough to cover most needs until the fleet is large enough to add specialized cars. A shorter-range Nissan Leaf is next, expected by early fall.
+**Solution:** We've prioritized more expensive, general-purpose vehicles first and plan to specialize later. Our electric VW ID.3 cost more than we'd have liked (€14,000), but it seats even our tallest member and can drive to nearly anywhere in the Netherlands and back on a single charge, general-purpose enough to cover most needs until the fleet is large enough to add specialized cars. A shorter-range Nissan Leaf is next, expected by early fall.
 
 ### Frequent Drivers & Gas-Powered Cars
 
 Frequent drivers are exactly who the group needs, and some have offered extra money, usually as additional deposits, to secure more reliable access. We've struggled to price this fairly: gas costs shift month to month, and guaranteeing availability on short notice is hard regardless of what someone's willing to pay.
 
-**Solution:** For members who want near-exclusive access to a specific car, we plan to offer proprietary access for an added fee: a short-term bridge until we reach five cars. Once specialty vehicles are reliably available without reservation, we expect demand for this fee to fade on its own.
+**Solution:** For members who want near-exclusive access to a specific car, we plan to offer proprietary access for an added fee: a short-term bridge until we reach five cars. Once specialty vehicles are reliably available without reservation, we expect demand for this fee to fade on its own.
 
 _These are our working bets, not proven outcomes. Feel free to check in via my contact form for updates._
 # Problems Before You Start
