@@ -8,6 +8,7 @@ Cover: blog/img/carshare/our-shared-car.png
 Slug: how-to-build-a-carshare
 ---
 
+
 Do you want a shared car, or do you want to share your car?
 
 I recently re-structured a car sharing group, together with 9 other people and two vehicles. I can now drive a car as much as I like for less than I would have otherwise pay to own one. It is also a nicer car than I would otherwise have been willing to afford. While there are sometimes issues with availability, these will resolve themselves as the group grows.
