@@ -1,6 +1,7 @@
 ---
 Title: Structure and Governance for Intentional Communities
 Date: 2023-08-09
+Modified: 2026-07-15
 Description: Are you figuring out how to govern a living community? This commentary and governance document may help.
 Tags: environment, dutch, community
 Cover: blog/img/intentional-community-governance-structure/tennis-court-oaths.jpg
@@ -8,6 +9,8 @@ Slug: intentional-community-governance-structure
 ---
 
 I was recently involved in designing a governance structure for the intentional ecological community in which I live. This is an overview of that structure followed by a translated and heavily edited version of the structure itself.
+
+**Edit from June 2026, roughly 3 years after publication:** This structure continues to function well within my community with only minor modifications. We have recently completed the process of updating our statutes to be more compatible with the described structure. I consider this a success. 
 
 ---
 

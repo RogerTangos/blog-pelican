@@ -109,7 +109,7 @@ People often need a car for something specific: long commutes, kids, dogs, tow h
 
 **Solution:** We've prioritized more expensive, general-purpose vehicles first and plan to specialize later. Our electric VW ID.3 cost more than we'd have liked (€14,000), but it seats even our tallest member and can drive to nearly anywhere in the Netherlands and back on a single charge, general-purpose enough to cover most needs until the fleet is large enough to add specialized cars. A shorter-range Nissan Leaf is next, expected by early fall.
 
-### Frequent Drivers & Gas-Powered Cars
+### Frequent Drivers
 
 Frequent drivers are exactly who the group needs, and some have offered extra money, usually as additional deposits, to secure more reliable access. We've struggled to price this fairly: gas costs shift month to month, and guaranteeing availability on short notice is hard regardless of what someone's willing to pay.
 
