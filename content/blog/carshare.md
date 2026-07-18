@@ -3,7 +3,7 @@ Title: Building a Carshare
 Date: 2026-07-15
 Modified: 2026-07-15
 Description: How to build a carshare that lasts
-Tags: programming, environment, finance
+Tags: community, environment, dutch
 Cover: blog/img/carshare/our-shared-car.png
 Slug: how-to-build-a-carshare
 ---
