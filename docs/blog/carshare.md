@@ -156,6 +156,6 @@ If you don't own a car, your path is harder, but not closed. Buying one and buil
 
 Do you want a shared car, or do you want to share your car? Either path gets you there, but the second one is harder to walk alone. If you want to start a car share, the main obstacles you'll face are finding people, finding a car, and building a pricing structure that survives contact with reality. I hope this post helps with all three. The numbers, at least, are now yours to steal.
 
-_As an extra gift, you can also work from a copy of [this spreadhseet](https://docs.google.com/spreadsheets/d/1DdQ0oGS-KaoR4hXlXHRO3_Mufo7qP41Q_5Y89gvTfB4/edit?usp=sharing)._
+_As an extra gift, you can also work from a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1DdQ0oGS-KaoR4hXlXHRO3_Mufo7qP41Q_5Y89gvTfB4/edit?usp=sharing)._
 
 Good luck, and let me know how it goes through my [contact form]({static}/pages/contact).
