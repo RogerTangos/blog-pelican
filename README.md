@@ -4,8 +4,7 @@ pelican -r -l
 pelican content; pelican --listen
 ```
 
-
-to build for remote:
+To add content, add it to `content/Blog` (NOT `docs/blog`!)
 
 ```
 pelican content -s publishconf.py; git add docs; gcm "update page"; gp
