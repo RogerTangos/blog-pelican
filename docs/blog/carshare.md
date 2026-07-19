@@ -1,7 +1,7 @@
 ---
 Title: Building a Carshare
 Date: 2026-07-15
-Modified: 2026-07-15
+Modified: 2026-07-19
 Description: How to build a carshare that lasts
 Tags: community, environment, dutch
 Cover: blog/img/carshare/our-shared-car.png
@@ -89,7 +89,7 @@ Our pricing model is built to make that contrast unavoidable, while staying sust
 
 Our group didn't start from scratch. We inherited an existing car share with two member-contributed cars and no deposit system. One of the two owners was leaving, partly for personal reasons and partly because the arrangement never made financial sense for him: he wasn't compensated for depreciation, was absorbing higher maintenance costs, and the inconvenience wasn't worth it. Losing him would have left the group with only one aging car. This forcing event was a more effective argument for adopting deposits than any pricing spreadsheet I could have built.
 
-It still took about three months to get buy-in; existing members were understandably reluctant to trade artificially low fees for a system that asked them to pay a deposit and higher fees. Three new members, myself included, joined partly because we wanted access to a newer, non-manual, non-gas car that the old arrangement couldn't offer. About 60% of the original members stayed; the rest were replaced.
+It still took about three months to get buy-in and implement the system; existing members were understandably reluctant to trade artificially low fees for a system that asked them to pay a deposit and higher fees. Three new members, myself included, joined partly because we wanted access to a newer, non-manual, non-gas car that the old arrangement couldn't offer. About 60% of the original members stayed; the rest were replaced.
 
 One frequent driver was requested not to rejoin: the old system had no mechanism to address safety concerns about him, but the new depositors, now with real money on the line, did. All told, the redesign took nine months from the time I started working on it until the new system was actually running.
 
@@ -137,7 +137,7 @@ There is a predictable set of user flows that work against car shares. Understan
 
 The moment any of these people buy a car, they stop being a candidate for your group. What's left is a smaller, more specific pool: people who are ideologically motivated (they care about transit or the environment) or financially motivated (ownership genuinely isn't within reach).
 
-This also means the time commitment of building a group falls on this self-selected group. It took me three months to secure agreement for my new car-sharing financial structure, and it took a total of nine months from when I started redesigning the system to when it was actually running on the new terms. If you're doing this alongside a full-time job, plan for that timeline rather than a weekend project.
+This also means the time commitment of building a group falls on this self-selected group. It took me three months to secure agreement for my new car-sharing financial structure and implement it. Including designing the financial structure, it took a total of nine months from when I started redesigning the system to when it was actually running on the new terms. If you're doing this alongside a full-time job, plan for that timeline rather than a weekend project.
 
 ---
 ## How to Start a Car Share
