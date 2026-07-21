@@ -121,7 +121,7 @@ _These are working assumptions, not proven outcomes. For updates, please get in 
 
 ### Existing Car Sharing
 
-n starting a car share, the first problem you are likely to face is competition from private owners sharing their cars at below-market rates. No one wants to join a car share if their neighbor allows them to drive for just the cost of gas.
+When starting a car share, the first problem you are likely to face is competition from private owners sharing their cars at below-market rates. No one wants to join a car share if their neighbor allows them to drive for just the cost of gas.
 
 The ideal solution is getting private owners to band together into a group. A more realistic one is showing the car owners what they're actually paying versus what they're charging, and asking them to raise their rates. (We are in the process of convincing one such owner to sell us his car, the aforementioned Nissan Leaf; the neighbor who has been borrowing it will likely have to join as a member.)
 
