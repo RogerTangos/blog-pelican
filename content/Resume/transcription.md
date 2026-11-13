@@ -1,16 +1,17 @@
 Title: Transcript Transcription
 Date: 2019-01-01
 Category: Resume
-Tags: NLP, image-processing, docker, clojurescript, resume
-Summary: A project to extract structured data from messy university transcript images.
+Tags: NLP, image-processing, docker, clojurescript, spacy, resume
+Summary: A web app converting contorted university transcript images into structured data.
 
 ## Description
 
-Transcript Transcription was a project to ingest messy, warped university transcript image files and export structured data from them. My role included:
+Transcript Transcription was a web application ingesting contorted university transcript images and exporting structured data from them. My contributions included:
 
-- Writing Docker images to extract various sections of text.
-- Using [spaCy](https://spacy.io/) for phrase matching (NLP techniques).
-- Performing frontend work using ClojureScript.
+- Writing services for image deskewing and OCR.
+- Creating services for text identification and extraction.
+- Using [spaCy](https://spacy.io/) for phrase matching and NLP techniques in Docker containers.
+- Contributing to the frontend using ClojureScript.
 
 ## Meta
 

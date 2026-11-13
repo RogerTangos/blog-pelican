@@ -1,7 +1,8 @@
 Albert R Carter
 Activist, Programmer, and Engineering Manager in Nijmegen, Netherlands
-Open to remote or local colalboration
+Open to remote or local collaboration
 Authorized to work in the Netherlands and in the United States
+Languages: English (Fluent), Dutch (B1), Vietnamese (C1)
 
 ******* Contact: *******
 Nijmegen, Netherlands
@@ -44,6 +45,13 @@ Bank.Green - https://bank.green,
 Founder, Head of financial data
 
 ******* Selected Projects: *******
+
+Watchtower | Python + LLMs | 2025-ongoing
+    https://watchtower.bank.green
+    –	a system evaluating financial institution sustainability policies
+    –	built and directed team
+    –	determined architecture, project direction
+    –	built sections of backend data processing infrastructure
 
 End to End Monitoring | Systems Monitoring | 2021-2022
     –	a project to monitor TB level data collection, processing, and communications

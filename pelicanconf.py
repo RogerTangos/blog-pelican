@@ -1,6 +1,6 @@
 AUTHOR = "Albert R Carter"
 SITENAME = "Albert R Carter"
-SITEURL = "localhost:8000"
+SITEURL = "http://localhost:8000"
 RELATIVE_URLS = True
 
 DELETE_OUTPUT_DIRECTORY = True
